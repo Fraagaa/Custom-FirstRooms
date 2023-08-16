@@ -23,5 +23,5 @@ zombie_depot & zombie_depot_patch are Swanky's Karneval Der Toten.
 - Swap the name of the map you want to play to zombie_depot & zombie_depot_patch respectively.
 - Now you can either restart the game or reload the mod, both will work
 
-#Things I want to add: 
+# Things I want to add: 
 Add custom first room mod by 5and5 into the mod
