@@ -1,0 +1,33 @@
+VERSION             "1"
+CONFIG              "C:\projects\cod\t5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE       "ZOMBIE_FTG_CAPS"
+LANG_ENGLISH    "FTG"
+
+REFERENCE       "ZOMBIE_TG_CAPS"
+LANG_ENGLISH    "TG"
+
+REFERENCE       "ZOMBIE_FTG_DESC_CAPS"
+LANG_ENGLISH    "A remake of Inferno Maarten's WaW first room custom map"
+
+REFERENCE       "ZOMBIE_APMENT_DESC_CAPS"
+LANG_ENGLISH    "A remake of Marten's TG map - by 5and5"
+
+REFERENCE       HUD_FOV_ENABLE
+LANG_ENGLISH    "FOV ENABLED"
+
+REFERENCE       HUD_FOV
+LANG_ENGLISH    "FIELD OF VIEW"
+
+REFERENCE       HUD_FOVSCALE
+LANG_ENGLISH    "FOV SCALE"
+
+REFERENCE       MAX_FPS
+LANG_ENGLISH    "MAX FPS"
+
+REFERENCE       HUD_TIMER
+LANG_ENGLISH    "TIMER"
+
+
+ENDMARKER

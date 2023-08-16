@@ -1,0 +1,85 @@
+{
+	map			"zombie_tg"
+	loadscreen	"preview_zombie_apment"
+	longname	"TG"
+	gametype	"zom"
+}
+{
+	map			"zombie_ftg_r"
+	loadscreen	"preview_zombie_apment"
+	longname	"FTG"
+	gametype	"zom"
+}
+{
+	map			"zombie_brick"
+	loadscreen	"preview_zombie_apment"
+	longname	"Helpless Unknown"
+	gametype	"zom"
+}
+{
+	map			"zombie_depot"
+	loadscreen	"preview_zombie_apment"
+	longname	"Karneval Der Toten"
+	gametype	"zom"
+}
+{
+	map			"zombie_dsagain"
+	loadscreen	"preview_zombie_apment"
+	longname	"Double Side"
+	gametype	"zom"
+}
+{
+	map			"zombie_hall"
+	loadscreen	"preview_zombie_apment"
+	longname	"Haunted Hallways"
+	gametype	"zom"
+}
+{
+	map			"zombie_meme"
+	loadscreen	"preview_zombie_apment"
+	longname	"Undead House"
+	gametype	"zom"
+}
+{
+	map			"zombie_orange"
+	loadscreen	"preview_zombie_apment"
+	longname	"HQ"
+	gametype	"zom"
+}
+{
+	map			"zombie_alley"
+	loadscreen	"preview_zombie_apment"
+	longname	"^1Cube of the Dead"
+	gametype	"zom"
+}
+{
+	map			"zombie_depot2"
+	loadscreen	"preview_zombie_apment"
+	longname	"DEPOT"
+	gametype	"zom"
+}
+{
+	map			"zombie_drs"
+	loadscreen	"preview_zombie_apment"
+	longname	"MOB OF THE DEEP"
+	gametype	"zom"
+}
+{
+	map			"zombie_hz"
+	loadscreen	"preview_zombie_hz"
+	longname	"Hazard Zone"
+	gametype	"zom"
+}
+{
+	map			"zombie_lockout"
+	loadscreen	"preview_zombie_apment"
+	longname	"LOCKOUT"
+	gametype	"zom"
+}
+{
+	map			"zombie_taco"
+	loadscreen	""
+	longname	"The Taco"
+	gametype	"zom"
+	description	"v1.0"
+}

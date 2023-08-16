@@ -1,0 +1,3071 @@
+iwmap 4
+"000_Global" flags  active
+"The Map" flags 
+// entity 0
+{
+"spawnflags" "1024"
+"waterdirection " "80"
+"classname" "worldspawn"
+"northyaw" "225"
+"skyboxmodel" "skybox_night"
+"sundirection" "-40.5026 38.2786 0"
+"suncolor" "1 0.9254 0.8627"
+"sunlight" "1"
+"sundiffusecolor" "0.255 0.34078 0.427451"
+"diffusefraction" "0.175"
+"_color" "0.8 1 1"
+"ambient" ".3"
+"sunradiosity" "1.3"
+"radiosityscale" ".75"
+"contrastgain" ".8"
+// brush 0
+{
+ ( -83 4247.25 120 ) ( -139 4247.25 120 ) ( -139 3799.25 120 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 21 -4183.25 0 0
+ ( -171 3799.25 264 ) ( -171 4247.25 264 ) ( -115 4247.25 264 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 21 -4183.25 0 0
+ ( 85 3807.25 160 ) ( 85 4255.25 160 ) ( 85 4255.25 128 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 4183.25 -8 0 0
+ ( -115 4375.25 232 ) ( -171 4375.25 232 ) ( -171 4375.25 200 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 21 -8 0 0
+ ( 77 4255.25 160 ) ( 77 3807.25 160 ) ( 77 4255.25 128 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 4183.25 -8 0 0
+ ( 88 4216 158 ) ( 72 4216 158 ) ( 88 4216 190 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -320 0 0 0
+}
+// brush 1
+{
+ ( -456 3912 120 ) ( -456 3856 120 ) ( -8 3856 120 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 4016 -392 90 0
+ ( -8 3824 264 ) ( -456 3824 264 ) ( -456 3880 264 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 4016 -392 90 0
+ ( -16 4412 160 ) ( -464 4412 160 ) ( -464 4412 128 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 -16383.945 392 8 180 0
+ ( -264 3916 232 ) ( -264 3860 232 ) ( -264 3860 200 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 4016 -8 0 0
+ ( -256 4088 232 ) ( -256 4144 232 ) ( -256 4088 200 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 4016 -8 0 0
+ ( -256 4176 264 ) ( -320 4080 264 ) ( -320 4080 296 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 4144 0 0 0
+}
+// brush 2
+{
+ ( -300 4080 120 ) ( -293.75 4080 120 ) ( -256 4163.5 120 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384.234 16384 3670.3037 -2324.3726 65.799835 0
+ ( -293.75 4080 264 ) ( -300 4080 264 ) ( -302 4081 264 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384.234 16384 3670.2969 -2324.3242 65.799889 0
+ ( -293.75 4080 120 ) ( -293.75 4080 264 ) ( -256 4163.5 264 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 14944.337 16384 4143.1426 -8 0 0
+ ( -269.75 4185.75 160 ) ( -678.5 4369.5 160 ) ( -678.5 4369.5 128 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 14944.215 -16383.938 500.82791 8 -180 0
+ ( -266 4161 256 ) ( -289 4110 256 ) ( -266 4161 224 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 14944.337 16384 4146.4224 -8 0 0
+ ( -300 4080 264 ) ( -300 4080 120 ) ( -302 4081 120 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 14943.483 -16383.969 677.5614 0 180 0
+ ( -289 4080 120 ) ( -293.75 4080 264 ) ( -289 4080 152 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -320 0 0 0
+ ( -256 4165.5 264 ) ( -256 4162.25 264 ) ( -256 4162.25 296 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 4144 0 0 0
+}
+// brush 3
+{
+ ( -363.5 3892.5 264 ) ( -363.5 3956.5 264 ) ( -299.5 3956.5 264 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -291.5 -4144.5 0 0
+ ( -293.5 3972.5 128 ) ( -293.5 4036.5 128 ) ( -293.5 4036.5 112 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384.016 4144.5 0 0 0
+ ( -299.5 3952.5 176 ) ( -299.5 3888.5 176 ) ( -299.5 3952.5 160 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16383.969 4144.5 0 0 0
+ ( -296 3764 264 ) ( -312 3764 264 ) ( -296 3764 296 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -320 0 0 0
+ ( -304 3828 264 ) ( -296 3828 264 ) ( -296 3828 296 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -320 0 0 0
+ ( -293.5 3776 224 ) ( -293.5 3752 224 ) ( -261.5 3776 224 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -320 -4144 0 0
+}
+// brush 4
+{
+ ( -295.5 3952.5 120 ) ( -359.5 3952.5 120 ) ( -359.5 3888.5 120 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -291.5 -4144.5 0 0
+ ( -363.5 3892.5 264 ) ( -363.5 3956.5 264 ) ( -299.5 3956.5 264 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -291.5 -4144.5 0 0
+ ( -342 3728 128 ) ( -278 3728 128 ) ( -278 3728 112 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16383.992 -291.5 0 0 0
+ ( -293.5 3972.5 128 ) ( -293.5 4036.5 128 ) ( -293.5 4036.5 112 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384.016 4144.5 0 0 0
+ ( -299.5 3952.5 176 ) ( -299.5 3888.5 176 ) ( -299.5 3952.5 160 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16383.969 4144.5 0 0 0
+ ( -312 3764 264 ) ( -296 3764 264 ) ( -296 3764 296 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -320 0 0 0
+}
+// brush 5
+{
+ ( -328 3760 264 ) ( -328 4208 264 ) ( -272 4208 264 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -136 -4144 0 0
+ ( -72 3976 264 ) ( -72 4044 264 ) ( -72 4044 224 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 4144 -8 0 0
+ ( -80 4044 264 ) ( -80 3976 264 ) ( -80 3976 224 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 4144 -8 0 0
+ ( -80 3976 264 ) ( -72 3976 264 ) ( -72 3976 224 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -272 0 0 0
+ ( -72 4044 264 ) ( -80 4044 264 ) ( -80 4044 224 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -272 0 0 0
+ ( -272 3872 224 ) ( -272 3860 224 ) ( -240 3860 224 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16383.666 -272 -4143.9624 0 0
+}
+// brush 6
+{
+ ( -240 4208 120 ) ( -296 4208 120 ) ( -296 3760 120 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -136 -4144 0 0
+ ( -328 3760 264 ) ( -328 4208 264 ) ( -272 4208 264 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -136 -4144 0 0
+ ( -72 3768 160 ) ( -72 4216 160 ) ( -72 4216 128 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 4144 -8 0 0
+ ( -80 4216 160 ) ( -80 3768 160 ) ( -80 4216 128 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 4144 -8 0 0
+ ( -88 4088 264 ) ( -72 4088 264 ) ( -72 4088 296 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -352 0 0 0
+ ( -72 4044 256 ) ( -72 4044 264 ) ( -40 4044 264 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -272 0 0 0
+}
+// brush 7
+{
+ ( -240 4208 120 ) ( -296 4208 120 ) ( -296 3760 120 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -136 -4144 0 0
+ ( -328 3760 264 ) ( -328 4208 264 ) ( -272 4208 264 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -136 -4144 0 0
+ ( -72 3760.75 160 ) ( -72 4208.75 160 ) ( -72 4208.75 128 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 4144 -8 0 0
+ ( -80 4216 160 ) ( -80 3768 160 ) ( -80 4216 128 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 4144 -8 0 0
+ ( -46.75 3957.75 264 ) ( -110.75 3957.75 264 ) ( -46.75 3957.75 296 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -352 0 0 0
+ ( -72 3976 272 ) ( -72 3976 248 ) ( -40 3976 272 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -272 0 0 0
+}
+// brush 8
+{
+ ( 384 3640 120 ) ( 440 3640 120 ) ( 440 4088 120 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -280 3704 -180 0
+ ( 472 4088 264 ) ( 472 3640 264 ) ( 416 3640 264 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384.25 16384 -280 3704 -180 0
+ ( 499 4109.5 256 ) ( 443 4109.5 256 ) ( 443 4109.5 224 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384.107 -16384 -280 8 -180 0
+ ( -128 4064 160 ) ( -128 3616 160 ) ( -128 3616 128 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 -16383.969 -3704 8 180 0
+ ( 264 4080 256 ) ( 320 4080 256 ) ( 264 4080 224 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 -16384 -280 8 180 0
+ ( 377 4097 264 ) ( 377 4065 264 ) ( 377 4097 296 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 4192 0 0 0
+}
+// brush 9
+{
+ ( -83 4247.25 120 ) ( -139 4247.25 120 ) ( -139 3799.25 120 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 21 -4183.25 0 0
+ ( -171 3799.25 264 ) ( -171 4247.25 264 ) ( -115 4247.25 264 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 21 -4183.25 0 0
+ ( 85 3807.25 160 ) ( 85 4255.25 160 ) ( 85 4255.25 128 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 4183.25 -8 0 0
+ ( 77 4255.25 160 ) ( 77 3807.25 160 ) ( 77 4255.25 128 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 4183.25 -8 0 0
+ ( 89.5 4080 264 ) ( 86 4080 264 ) ( 86 4080 296 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -320 0 0 0
+ ( 64 4152 158 ) ( 88 4152 158 ) ( 88 4152 190 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -320 0 0 0
+}
+// brush 10
+{
+ ( -171 3799.25 264 ) ( -171 4247.25 264 ) ( -115 4247.25 264 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 21 -4183.25 0 0
+ ( 85 3807.25 160 ) ( 85 4255.25 160 ) ( 85 4255.25 128 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 4183.25 -8 0 0
+ ( 77 4255.25 160 ) ( 77 3807.25 160 ) ( 77 4255.25 128 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 4183.25 -8 0 0
+ ( 88 4152 158 ) ( 64 4152 158 ) ( 88 4152 190 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -320 0 0 0
+ ( 72 4216 158 ) ( 88 4216 158 ) ( 88 4216 190 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -320 0 0 0
+ ( -224 3415.25 224 ) ( -208 3415.25 224 ) ( -224 3447.25 224 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -320 -4144 0 0
+}
+// brush 11
+{
+ ( -248 3696 264 ) ( -248 4144 264 ) ( -192 4144 264 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -56 -4080 0 0
+ ( -296 3176 256 ) ( -240 3176 256 ) ( -240 3176 224 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -56 -8 0 0
+ ( 8 3744 160 ) ( 8 4192 160 ) ( 8 4192 128 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 4080 -8 0 0
+ ( 0 4032 152 ) ( 0 3584 152 ) ( 0 4032 120 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 4080 -8 0 0
+ ( -320 3528 224 ) ( -320 3512 224 ) ( -288 3528 224 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -320 -4080 0 0
+ ( -8 3728 264 ) ( 8 3728 264 ) ( 8 3728 296 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -320 0 0 0
+}
+// brush 12
+{
+ ( -79 4055.75 157.5 ) ( -79.25 4055.75 157.5 ) ( -79.25 4050.5 157.5 ) clip 64 64 -319 -4144.25 0 0 lightmap_gray 16384 16384 -319 -4144.25 0 0
+ ( -80 4050.5 219 ) ( -80 4055.75 219 ) ( -79.75 4055.75 219 ) clip 64 64 -319 -4144.25 0 0 lightmap_gray 16384 16384 -319 -4144.25 0 0
+ ( -79.25 3976.5 165.5 ) ( -79 3976.5 165.5 ) ( -79 3976.5 157.5 ) clip 64 64 -319.00195 -37.5 0 0 lightmap_gray 16384 16384 -319 -37.5 0 0
+ ( -78.75 3891.5 142 ) ( -78.75 3896.75 142 ) ( -78.75 3896.75 134 ) clip 64 64 4144.25 -37.5 0 0 lightmap_gray 16384 16384 4144.25 -37.5 0 0
+ ( -76.25 4044 165.5 ) ( -76.5 4044 165.5 ) ( -76.5 4044 157.5 ) clip 64 64 -318.99829 -37.5 0 0 lightmap_gray 16384 16384 -319 -37.5 0 0
+ ( -79.75 3959.75 52.75 ) ( -79.75 3954.5 52.75 ) ( -79.75 3954.5 44.75 ) clip 64 64 4144.25 -37.5 0 0 lightmap_gray 16384 16384 4144.25 -37.5 0 0
+}
+// brush 13
+{
+ ( -294 3807.5 160 ) ( -294.25 3807.5 160 ) ( -294.25 3802.25 160 ) clip 64 64 -533.11334 -3896.1326 0 9.3005954e-005 lightmap_gray 16400.016 16384 -533.73486 -3896.1145 0 0.00022088914
+ ( -293.25 3802.25 223.5 ) ( -293.25 3807.5 223.5 ) ( -293 3807.5 223.5 ) clip 64 64 -532.75806 -3896.4712 0 0 lightmap_gray 16384.01 16387.803 -532.36047 -3895.6868 -0.055965908 -0.0010642292
+ ( -293.5 3864 186.75 ) ( -293.5 3869.25 186.75 ) ( -293.5 3869.25 178.75 ) clip 64 64 3896.1592 0.25 0 0 lightmap_gray 16387.811 16384 3896 0.25 0 0
+ ( -291.5 3828 127.75 ) ( -291.75 3828 127.75 ) ( -291.75 3828 119.75 ) clip 64.062561 64 -533.00134 0.23226929 0 0.0007019043 lightmap_gray 16384 16384.625 -532.75 0.22872844 0 -0.00048829988
+ ( -294.5 3766 181.25 ) ( -294.5 3766 119.75 ) ( -294.25 3841 119.75 ) clip 64 64 3896.1616 0.25 0 0 lightmap_gray 16386.287 16384 3896 0.25 0 0
+ ( -295 3764 119.75 ) ( -295 3764 181.25 ) ( -294 3764 181.25 ) clip 64 64 4089.9453 0 0 0 lightmap_gray 16382.477 16384 4089.7375 0 0 0
+}
+// brush 14
+{
+ ( -784 3216 264 ) ( -784 3664 264 ) ( -728 3664 264 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -592 -3600 0 0
+ ( -864 3216 256 ) ( -808 3216 256 ) ( -808 3216 224 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -592 -8 0 0
+ ( -520 3224 248 ) ( -576 3224 248 ) ( -520 3224 216 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -592 -8 0 0
+ ( -128 3224 240 ) ( -128 3224 272 ) ( -128 3256 272 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 3856 0 0 0
+ ( -248 3224 264 ) ( -248 3224 240 ) ( -248 3256 264 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16383.99 3856 0 0 0
+ ( -400 3224 224 ) ( -400 3208 224 ) ( -368 3224 224 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -400 -3855.9951 0 0
+}
+// brush 15
+{
+ ( -184 3696 159 ) ( -272 3696 159 ) ( -272 3662.25 159 ) clip 64 64 -145 -4147.75 0 0 lightmap_gray 16384 16384 -145 -4147.75 0 0
+ ( -278.5 3662.25 240 ) ( -278.5 3696 240 ) ( -190.5 3696 240 ) clip 64 64 -145 -4147.75 0 0 lightmap_gray 16384 16384 -145 -4147.75 0 0
+ ( -279.5 3611 173 ) ( -191.5 3611 173 ) ( -191.5 3611 159 ) clip 64 64 -145 0 0 0 lightmap_gray 16384 16384 -145 0 0 0
+ ( -176 3662.5 173 ) ( -176 3696.25 173 ) ( -176 3696.25 159 ) clip 64 64 4147.75 0 0 0 lightmap_gray 16383.881 16384 4147.75 0 0 0
+ ( -184 3728 173 ) ( -272 3728 173 ) ( -272 3728 159 ) clip 64 64 -145 0 0 0 lightmap_gray 16384 16384 -145 0 0 0
+ ( -232 3736 173 ) ( -232 3702.25 173 ) ( -232 3702.25 159 ) clip 64 64 4147.75 0 0 0 lightmap_gray 16384.355 16384 4147.7979 0 0 0
+}
+// brush 16
+{
+ ( -83 4247.25 120 ) ( -139 4247.25 120 ) ( -139 3799.25 120 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 21 -4183.25 0 0
+ ( 85 3808.25 164 ) ( 85 4256.25 164 ) ( 85 4256.25 132 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 4183.25 -8 0 0
+ ( 77 4255.25 160 ) ( 77 3807.25 160 ) ( 77 4255.25 128 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 4183.25 -8 0 0
+ ( 88 4152 158 ) ( 64 4152 158 ) ( 88 4152 190 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -320 0 0 0
+ ( 72 4216 158 ) ( 88 4216 158 ) ( 88 4216 190 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -320 0 0 0
+ ( 94 3416.25 162 ) ( 78 3416.25 162 ) ( 94 3448.25 162 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -320 -4144 0 0
+}
+// brush 17
+{
+ ( -424.75 4136 120 ) ( -480.75 4136 120 ) ( -480.75 3688 120 ) eb_art_wall_plaster_two_tone_paint02 128 128 -0.75 0 0 0 lightmap_gray 16384 16384 -320.75 -4072 0 0
+ ( -536 3611 256 ) ( -480 3611 256 ) ( -480 3611 224 ) eb_art_wall_plaster_two_tone_paint02 128 128 -0.75 0 0 0 lightmap_gray 16384 16384 -320.75 -8 0 0
+ ( -304.75 3728 256 ) ( -360.75 3728 256 ) ( -304.75 3728 224 ) eb_art_wall_plaster_two_tone_paint02 128 128 -0.75 0 0 0 lightmap_gray 16384 16384 -320.75 -8 0 0
+ ( -232 3670.25 264 ) ( -232 3686.25 264 ) ( -232 3670.25 296 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 4104 0 0 0
+ ( -176.75 3688 112 ) ( -176.75 3688 224 ) ( -176.75 3720 224 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 4104 0 0 0
+ ( -448.75 3728 160 ) ( -464.75 3728 160 ) ( -464.75 3760 160 ) eb_art_wall_plaster_tile_sub_tile 128 128 -0.75 0 0 0 lightmap_gray 16384 16384 -320.75 -4144 0 0
+}
+// brush 18
+{
+ ( -51 4247.25 120 ) ( -107 4247.25 120 ) ( -107 3799.25 120 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 53 -4183.25 0 0
+ ( -139 3799.25 264 ) ( -139 4247.25 264 ) ( -83 4247.25 264 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 53 -4183.25 0 0
+ ( 117 3807.25 160 ) ( 117 4255.25 160 ) ( 117 4255.25 128 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 4183.25 -8 0 0
+ ( 109 4255.25 160 ) ( 109 3807.25 160 ) ( 109 4255.25 128 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 4183.25 -8 0 0
+ ( 117 3815.25 264 ) ( 101 3815.25 264 ) ( 117 3815.25 296 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -299 0 0 0
+ ( 118 4080 264 ) ( 121.5 4080 264 ) ( 118 4080 296 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -288 0 0 0
+}
+// brush 19
+{
+ ( -720 3056 264 ) ( -720 3504 264 ) ( -664 3504 264 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -528 -3440 0 0
+ ( -744 3056 256 ) ( -688 3056 256 ) ( -688 3056 224 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -528 -8 0 0
+ ( -512 3064 256 ) ( -568 3064 256 ) ( -512 3064 224 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -528 -8 0 0
+ ( -400 3064 160 ) ( -384 3064 160 ) ( -400 3096 160 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384.5 -336 -3696.0146 0 0
+ ( -848 3056 272 ) ( -848 3056 256 ) ( -848 3088 272 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 3695.9968 0 0 0
+ ( 384 3056 240 ) ( 384 3056 264 ) ( 384 3088 264 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384.25 16383.99 3696.0095 0 0 0
+}
+// brush 20
+{
+ ( -240 4208 120 ) ( -296 4208 120 ) ( -296 3760 120 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -136 -4144 0 0
+ ( -72 3768 160 ) ( -72 4216 160 ) ( -72 4216 128 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 4144 -8 0 0
+ ( -80 4184 152 ) ( -80 3736 152 ) ( -80 4184 120 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 4144 -8 0 0
+ ( -72 3975 240 ) ( -72 3975 264 ) ( -40 3975 264 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -272 0 0 0
+ ( -72 4044 264 ) ( -72 4044 256 ) ( -40 4044 264 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -272 0 0 0
+ ( -272 3852 163 ) ( -272 3872 163 ) ( -240 3852 163 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -272 -4144 0 0
+}
+// brush 21
+{
+ ( -387 3880 120 ) ( -323 3880 120 ) ( -323 3944 120 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 387 3688 -180 0
+ ( -315 3946 264 ) ( -315 3882 264 ) ( -379 3882 264 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 387 3688 180 0
+ ( -387 3880 128 ) ( -323 3880 128 ) ( -323 3880 112 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 -16383.984 387 0 180 0
+ ( -299 3880 128 ) ( -299 3944 128 ) ( -299 3944 112 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 -16384.016 -3688 0 180 0
+ ( -323 3888 128 ) ( -387 3888 128 ) ( -323 3888 112 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 -16383.984 387 0 180 0
+ ( -541 3864 312 ) ( -541 3880 312 ) ( -541 3880 344 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 4136 0 0 0
+}
+// brush 22
+{
+ ( 384 3512 120 ) ( 440 3512 120 ) ( 440 3960 120 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -280 3576 180 0
+ ( 472 3960 264 ) ( 472 3512 264 ) ( 416 3512 264 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384.25 16384 -280 3576 180 0
+ ( 496 3960 256 ) ( 440 3960 256 ) ( 440 3960 224 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384.107 -16384 -280 8 -180 0
+ ( -80 3944 160 ) ( -80 3496 160 ) ( -80 3496 128 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 -16383.98 -3576 8 180 0
+ ( 176 3957.75 256 ) ( 232 3957.75 256 ) ( 176 3957.75 224 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 -16384 -280 8 180 0
+ ( 8 3968 264 ) ( 8 3936 264 ) ( 8 3968 296 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 4064 0 0 0
+}
+// brush 23
+{
+ ( -128 4402.5 128 ) ( -256 4402.5 128 ) ( -256 4394.5 128 ) eb_art_wall_plaster_two_tone_paint02 128 128 8 5.5 0 0 lightmap_gray 16384 16384 8 -2.5 0 0
+ ( -264 4394.5 256 ) ( -264 4402.5 256 ) ( -136 4402.5 256 ) eb_art_wall_plaster_two_tone_paint02 128 128 8 5.5 0 0 lightmap_gray 16384 16384 8 -2.5 0 0
+ ( -256 4394.5 192 ) ( -128 4394.5 192 ) ( -128 4394.5 128 ) eb_art_wall_plaster_two_tone_paint02 128 128 8 0 0 0 lightmap_gray 16384 16384 8 32 0 0
+ ( -145.75 4395.25 192 ) ( -145.75 4403.25 192 ) ( -145.75 4403.25 128 ) eb_art_wall_plaster_two_tone_paint02 128 128 -5.5 0 0 0 lightmap_gray 16384 16384 2.5 32 0 0
+ ( -128 4402.5 192 ) ( -256 4402.5 192 ) ( -256 4402.5 128 ) eb_art_wall_plaster_two_tone_paint02 128 128 8 0 0 0 lightmap_gray 16384 16384 8 32 0 0
+ ( -256 4402.5 192 ) ( -256 4394.5 192 ) ( -256 4394.5 128 ) eb_art_wall_plaster_two_tone_paint02 128 128 -5.5 0 0 0 lightmap_gray 16384 16384 2.5 32 0 0
+}
+// brush 24
+{
+ ( -632 3504 120 ) ( -688 3504 120 ) ( -688 3056 120 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -528 -3440 0 0
+ ( -744 3056 256 ) ( -688 3056 256 ) ( -688 3056 224 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -528 -8 0 0
+ ( 384 3080 160 ) ( 384 3528 160 ) ( 384 3528 128 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16383.961 3440 -8 0 0
+ ( -512 3064 256 ) ( -568 3064 256 ) ( -512 3064 224 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -528 -8 0 0
+ ( -840 3052 264 ) ( -840 3068 264 ) ( -840 3052 296 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384.5 16384 3472.0044 -0.0020751953 0 0
+ ( -384 3064 160 ) ( -400 3064 160 ) ( -400 3096 160 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384.5 -336 -3696.0142 0 0
+}
+// brush 25
+{
+ ( -293.5 4080 120 ) ( -299.5 4080 120 ) ( -299.5 3824 120 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -291.5 -4144.5 0 0
+ ( -299.5 4084 264 ) ( -293.5 4084 264 ) ( -293.5 3828 264 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -291.5 -4144.5 0 0
+ ( -293.5 4080 304 ) ( -293.5 4080 120 ) ( -293.5 3824 120 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384.016 4144.5 0 0 0
+ ( -286.5 4080 128 ) ( -350.5 4080 128 ) ( -350.5 4080 112 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16383.984 -291.5 0 0 0
+ ( -299.5 4080 120 ) ( -299.5 4080 304 ) ( -299.5 3824 304 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16383.969 4144.5 0 0 0
+ ( -296 3828 264 ) ( -304 3828 264 ) ( -296 3828 296 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -320 0 0 0
+}
+// brush 26
+{
+ ( -368 3444 128 ) ( -400 3444 128 ) ( -400 3412 128 ) clip 64 64 0 4 0 0 lightmap_gray 16384 16384 0 4 0 0
+ ( -403 3412 213 ) ( -403 3444 213 ) ( -371 3444 213 ) clip 64 64 0 4 0 0 lightmap_gray 16384 16384 0 4 0 0
+ ( -400 3412 160 ) ( -368 3412 160 ) ( -368 3412 128 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -368 3412 160 ) ( -368 3444 160 ) ( -368 3444 128 ) clip 64 64 -4 0 0 0 lightmap_gray 16384 16384 -4 0 0 0
+ ( -368 3444 160 ) ( -400 3444 160 ) ( -400 3444 128 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -400 3444 160 ) ( -400 3412 160 ) ( -400 3412 128 ) clip 64 64 -4 0 0 0 lightmap_gray 16384 16384 -4 0 0 0
+}
+// brush 27
+{
+ ( 60 4132 88 ) ( -34 4132 88 ) ( -54 4110 88 ) clip 64 64 -304.25 -4170.5 0 0 lightmap_gray 16384 16384 -304.25 -4170.5 0 0
+ ( -32.25 4130.5 216 ) ( -32.25 4138.5 216 ) ( 71.75 4138.5 216 ) clip 64 64 -304.25 -4170.5 0 0 lightmap_gray 16384 16384 -304.25 -4170.5 0 0
+ ( -54 4110 88 ) ( -54 4110 216 ) ( 67 4110 216 ) clip 64 64 -304.25 0 0 0 lightmap_gray 16384 16384 -304.25 0 0 0
+ ( 60 4130 216 ) ( 60 4130 88 ) ( 67 4110 88 ) clip 64 64 4170.5 0 0 0 lightmap_gray 16384 16384 4170.5 0 0 0
+ ( -54 4110 216 ) ( -54 4110 88 ) ( -34 4130 88 ) clip 64 64 4170.5 0 0 0 lightmap_gray 16384 16384 4170.5 0 0 0
+ ( -34 4132 88 ) ( 60 4132 88 ) ( 60 4130 216 ) clip 64 64 -304 0 0 0 lightmap_gray 16384 16384 -304 0 0 0
+}
+// brush 28
+{
+ ( -128 3220 160 ) ( -200 3220 160 ) ( -200 3219 160 ) clip_player 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -200 3219 223 ) ( -200 3220 223 ) ( -128 3220 223 ) clip_player 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -200 3219 264 ) ( -128 3219 264 ) ( -128 3219 160 ) clip_player 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -128 3219 264 ) ( -128 3220 264 ) ( -128 3220 160 ) clip_player 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -128 3220 223 ) ( -200 3220 223 ) ( -200 3220 119 ) clip_player 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -200 3220 264 ) ( -200 3219 264 ) ( -200 3219 160 ) clip_player 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 29
+{
+ ( 2 3551 128 ) ( 0 3551 128 ) ( 0 3525 128 ) clip_player 64 64 -1 0 0 0 lightmap_gray 16384 16384 -2 0 0 0
+ ( 0 3521 223 ) ( 0 3547 223 ) ( 2 3547 223 ) clip_player 64 64 -1 0 0 0 lightmap_gray 16384 16384 -2 0 0 0
+ ( 3 3480 223 ) ( 5 3480 223 ) ( 5 3480 160 ) clip_player 64 64 -1 0 0 0 lightmap_gray 16384 16384 -2 0 0 0
+ ( 2 3521 223 ) ( 2 3547 223 ) ( 2 3547 160 ) clip_player 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 2 3547 223 ) ( 0 3547 223 ) ( 0 3547 160 ) clip_player 64 64 -1 0 0 0 lightmap_gray 16384 16384 -2 0 0 0
+ ( 0 3547 223 ) ( 0 3521 223 ) ( 0 3521 160 ) clip_player 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 30
+{
+ ( -464.75 4151.25 120 ) ( -520.75 4151.25 120 ) ( -520.75 3703.25 120 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -360.75 -4087.25 0 0
+ ( -552.75 3703.25 264 ) ( -552.75 4151.25 264 ) ( -496.75 4151.25 264 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -360.75 -4087.25 0 0
+ ( -569.75 3218.5 248 ) ( -513.75 3218.5 248 ) ( -513.75 3218.5 216 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -360.75 -8 0 0
+ ( -558.75 4160.25 248 ) ( -558.75 3712.25 248 ) ( -558.75 3712.25 216 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 4087.25 -8 0 0
+ ( -552.75 3647.25 256 ) ( -552.75 4095.25 256 ) ( -552.75 3647.25 224 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 4087.25 -8 0 0
+ ( -545 3619.25 240.5 ) ( -549.25 3619.25 240.5 ) ( -540 3619.25 159 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384.941 16384 -328.75 0 0 0
+}
+// brush 31
+{
+ ( -128 3496 128 ) ( -228 3496 128 ) ( -228 3400 128 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -228 3400 248 ) ( -228 3496 248 ) ( -128 3496 248 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -228 3400 264 ) ( -128 3400 264 ) ( -128 3400 120 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -128 3400 264 ) ( -128 3496 264 ) ( -128 3496 120 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -128 3496 264 ) ( -228 3496 264 ) ( -228 3496 120 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -228 3496 264 ) ( -228 3400 264 ) ( -228 3400 120 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 32
+{
+ ( -248 3694 264 ) ( -248 4142 264 ) ( -192 4142 264 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 2 0 0 lightmap_gray 16384 16384 -56 -4078 0 0
+ ( 8 3742 160 ) ( 8 4190 160 ) ( 8 4190 128 ) eb_art_wall_plaster_two_tone_paint02 128 128 -2 0 0 0 lightmap_gray 16384 16384 4078 -8 0 0
+ ( -14.75 4105.5 152 ) ( -14.75 3657.5 152 ) ( -14.75 4105.5 120 ) eb_art_wall_plaster_two_tone_paint02 128 128 -2 0 0 0 lightmap_gray 16384 16384 4078 -8 0 0
+ ( -31.75 3957.5 264 ) ( 32.25 3957.5 264 ) ( 32.25 3957.5 296 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -272 0 0 0
+ ( -320 3526 224 ) ( -320 3510 224 ) ( -288 3526 224 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 2 0 0 lightmap_gray 16384 16384 -320 -4078 0 0
+ ( 8.5 3728 264 ) ( -7.5 3728 264 ) ( 8.5 3728 296 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -320 0 0 0
+}
+// brush 33
+{
+ ( 8 3648 155 ) ( 8 4096 155 ) ( 8 4096 123 ) eb_art_wall_plaster_two_tone_paint02 128 128 -1 0 0 0 lightmap_gray 16384 16384 4101 -8 0 0
+ ( -14.75 4098.25 160 ) ( -14.75 3650.25 160 ) ( -14.75 4098.25 128 ) eb_art_wall_plaster_two_tone_paint02 128 128 -1 0 0 0 lightmap_gray 16384 16384 4101 -8 0 0
+ ( -32 3955 264 ) ( 32 3955 264 ) ( 32 3955 296 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -272 0 0 0
+ ( -320 3509 160 ) ( -320 3493 160 ) ( -288 3509 160 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 1 0 0 lightmap_gray 16384 16384 -320 -4101 0 0
+ ( -320 3493 224 ) ( -320 3509 224 ) ( -288 3509 224 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 1 0 0 lightmap_gray 16384 16384 -320 -4101 0 0
+ ( 8.5 3727 264 ) ( -7.5 3727 264 ) ( 8.5 3727 296 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -320 0 0 0
+}
+// brush 34
+{
+ ( 384 3072 128 ) ( 376 3072 128 ) ( 376 3064 128 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 8 8 0 0
+ ( 376 3064 256 ) ( 376 3072 256 ) ( 384 3072 256 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 8 8 0 0
+ ( 376 3064 256 ) ( 384 3064 256 ) ( 384 3064 128 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 8 -40 0 0
+ ( 384 3064 256 ) ( 384 3072 256 ) ( 384 3072 128 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -8 -40 0 0
+ ( 368 4672 256 ) ( 360 4672 256 ) ( 360 4672 128 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 8 -40 0 0
+ ( 376 3072 256 ) ( 376 3064 256 ) ( 376 3064 128 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -8 -40 0 0
+}
+// brush 35
+{
+ ( 376 4672 127.25 ) ( 352 4672 127.25 ) ( 352 4664 127.25 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 352 4664 255.25 ) ( 352 4672 255.25 ) ( 376 4672 255.25 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 352 4664 255.25 ) ( 376 4664 255.25 ) ( 376 4664 127.25 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0.75 0 0
+ ( 376 4664 255.25 ) ( 376 4672 255.25 ) ( 376 4672 127.25 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0.75 0 0
+ ( 376 4672 255.25 ) ( 352 4672 255.25 ) ( 352 4672 127.25 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0.75 0 0
+ ( -872 4656 255.25 ) ( -872 4648 255.25 ) ( -872 4648 127.25 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0.75 0 0
+}
+// brush 36
+{
+ ( -295.5 3952.5 120 ) ( -359.5 3952.5 120 ) ( -359.5 3888.5 120 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -291.5 -4144.5 0 0
+ ( -293.5 3972.5 128 ) ( -293.5 4036.5 128 ) ( -293.5 4036.5 112 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384.016 4144.5 0 0 0
+ ( -299.5 3952.5 176 ) ( -299.5 3888.5 176 ) ( -299.5 3952.5 160 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16383.969 4144.5 0 0 0
+ ( -296 3760 304 ) ( -312 3760 304 ) ( -296 3760 336 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -320 0 0 0
+ ( -304 3828 304 ) ( -296 3828 304 ) ( -296 3828 336 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -320 0 0 0
+ ( -293.5 3760 162 ) ( -293.5 3768 162 ) ( -261.5 3768 162 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -320 -4144 0 0
+}
+// brush 37
+{
+ ( 32 3839.5 120 ) ( 83.25 3816.5 120 ) ( 266.75 4225 120 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384.627 16384 1648.6755 3579.1406 155.79985 0
+ ( -136 4400 264 ) ( -136 4400 264 ) ( 88 4304 264 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384.199 16384 1648.6134 3579.1069 155.79999 0
+ ( 317.75 4202 256 ) ( 266.75 4225 256 ) ( 266.75 4225 224 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 14944.23 -16384 -120.85015 8 180 0
+ ( -136 4400 120 ) ( -136 4400 264 ) ( 88 4296 264 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 14944.183 -16384 -117.5743 8 -180 0
+ ( 89.5 4303.5 264 ) ( 83 4289 264 ) ( 89.5 4303.5 296 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 14944.229 -16384 -3878.4431 0 180 0
+}
+// brush 38
+{
+ ( 72 4315.5 128 ) ( -131.5 4408.75 128 ) ( -135 4401.5 128 ) eb_art_wall_plaster_two_tone_paint02 128 128.01276 386.89249 46.285069 5.4018016 6.3888961e-005 lightmap_gray 16384.115 16387.713 -1825.7737 451.14117 -24.600557 -3.880704e-005
+ ( -142.75 4400.75 256 ) ( -139.5 4408 256 ) ( 64.25 4314.75 256 ) eb_art_wall_plaster_two_tone_paint02 128 127.97906 386.92926 45.115845 5.4001641 -9.5611023e-005 lightmap_gray 16384.17 16383.113 -1825.5134 449.86591 -24.600121 -7.9770354e-005
+ ( -142 4392.75 264 ) ( 61.5 4299.5 264 ) ( 61.5 4299.5 256 ) eb_art_wall_plaster_two_tone_paint02 134.38634 128 -21.363966 0 0 0 lightmap_gray 14896.922 16384 -18.440401 0 0 0
+ ( 94.25 4294.5 264 ) ( 97.5 4302 264 ) ( 97.5 4302 256 ) eb_art_wall_plaster_two_tone_paint02 134.31294 128 -230.60397 0 0 0 lightmap_gray 14889.327 16384 320.08582 0 0 0
+ ( 65 4307 264 ) ( -138.75 4400.25 264 ) ( -138.75 4400.25 256 ) eb_art_wall_plaster_two_tone_paint02 134.38533 128 -22.239782 0 0 0 lightmap_gray 14896.967 16384 -15.116458 0 0 0
+ ( -139.5 4408 264 ) ( -142.75 4400.75 264 ) ( -142.75 4400.75 256 ) eb_art_wall_plaster_two_tone_paint02 134.3125 128 -258.73599 0 0 0 lightmap_gray 14890.315 16384 409.18942 0 0 0
+}
+// brush 39
+{
+ ( 96 3752 120 ) ( 0 3752 120 ) ( 0 3744 120 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -320 -4144 0 0
+ ( -8 3744 264 ) ( -8 3752 264 ) ( 88 3752 264 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -320 -4144 0 0
+ ( 0 3744 128 ) ( 96 3744 128 ) ( 96 3744 120 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -320 0 0 0
+ ( 384 3744 128 ) ( 384 3752 128 ) ( 384 3752 120 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 4144 0 0 0
+ ( 96 3752 128 ) ( 0 3752 128 ) ( 0 3752 120 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -320 0 0 0
+ ( 0 3752 128 ) ( 0 3744 128 ) ( 0 3744 120 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 4144 0 0 0
+}
+// brush 40
+{
+ ( -72 4248 120 ) ( -128 4248 120 ) ( -128 3800 120 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 32 -4184 0 0
+ ( -160 3800 264 ) ( -160 4248 264 ) ( -104 4248 264 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 32 -4184 0 0
+ ( 96 3808 160 ) ( 96 4256 160 ) ( 96 4256 128 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 4184 -8 0 0
+ ( 88 4256 160 ) ( 88 3808 160 ) ( 88 4256 128 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 4184 -8 0 0
+ ( 110.5 3328.25 272 ) ( 94.5 3328.25 272 ) ( 110.5 3328.25 304 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -184.0022 0 0 0
+ ( 80 3744 207.75 ) ( 96 3744 207.75 ) ( 80 3744 239.75 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -320 0 0 0
+}
+// brush 41
+{
+ ( -396 4080 120 ) ( -300 4080 120 ) ( -294.5 4088 120 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -320 -4216 0 0
+ ( -300 4080 264 ) ( -396 4080 264 ) ( -396 4088 264 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -320 -4216 0 0
+ ( -456 4088 232 ) ( -512 4088 232 ) ( -512 4088 200 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -320 -8 0 0
+ ( -328 4080 232 ) ( -272 4080 232 ) ( -328 4080 200 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -320 -8 0 0
+ ( -396 4080 264 ) ( -396 4080 120 ) ( -396 4088 120 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 4192 0 0 0
+ ( -300 4080 120 ) ( -300 4080 264 ) ( -294.5 4088 264 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 4144 0 0 0
+}
+// brush 42
+{
+ ( -448 4080 128 ) ( -396 4080 128 ) ( -396 4088 128 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -320 -4216 0 0
+ ( -456 4088 232 ) ( -512 4088 232 ) ( -512 4088 200 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -320 -8 0 0
+ ( -504 4080 232 ) ( -448 4080 232 ) ( -504 4080 200 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -320 -8 0 0
+ ( -396 4080 128 ) ( -396 4080 160 ) ( -396 4088 160 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 4192 0 0 0
+ ( -448 4080 160 ) ( -448 4080 128 ) ( -448 4088 128 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 4192 0 0 0
+ ( -396 4080 160 ) ( -448 4080 160 ) ( -448 4088 160 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -320 -4192 0 0
+}
+// brush 43
+{
+ ( -396 4080 264 ) ( -448 4080 264 ) ( -448 4088 264 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -320 -4216 0 0
+ ( -472 4088 168 ) ( -528 4088 168 ) ( -528 4088 136 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -320 -8 0 0
+ ( -504 4080 232 ) ( -448 4080 232 ) ( -504 4080 200 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -320 -8 0 0
+ ( -396 4080 160 ) ( -396 4080 264 ) ( -396 4088 264 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 4192 0 0 0
+ ( -448 4080 264 ) ( -448 4080 160 ) ( -448 4088 160 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 4192 0 0 0
+ ( -448 4080 160 ) ( -396 4080 160 ) ( -396 4088 160 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -320 -4192.0049 0 0
+}
+// brush 44
+{
+ ( -544 4080 120 ) ( -448 4080 120 ) ( -448 4088 120 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -320 -4216 0 0
+ ( -448 4080 264 ) ( -544 4080 264 ) ( -544 4088 264 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -320 -4216 0 0
+ ( -456 4088 232 ) ( -512 4088 232 ) ( -512 4088 200 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -320 -8 0 0
+ ( -544 4080 264 ) ( -544 4080 120 ) ( -544 4088 120 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 4216 -8 0 0
+ ( -504 4080 232 ) ( -448 4080 232 ) ( -504 4080 200 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -320 -8 0 0
+ ( -448 4080 120 ) ( -448 4080 264 ) ( -448 4088 264 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 4192 0 0 0
+}
+// brush 45
+{
+ ( 77.25 4215.25 164 ) ( 77 4215.25 164 ) ( 77 4152 164 ) clip_player 64 64 -5.5 0 0 0 lightmap_gray 16384 16384 -5.5 0 0 0
+ ( 77 4152 224 ) ( 77 4215.25 224 ) ( 77.25 4215.25 224 ) clip_player 64 64 -5.5 0 0 0 lightmap_gray 16384 16384 -5.5 0 0 0
+ ( 77 4152 224 ) ( 77.25 4152 224 ) ( 77.25 4152 162.5 ) clip_player 64 64 -5.5 -5 0 0 lightmap_gray 16384 16384 -5.5 -5 0 0
+ ( 78 4152.75 227.75 ) ( 78 4216 227.75 ) ( 78 4216 166.25 ) clip_player 64 64 0 -5 0 0 lightmap_gray 16384 16384 0 -5 0 0
+ ( 77.25 4216 224 ) ( 77 4216 224 ) ( 77 4216 162.5 ) clip_player 64 64 -5.5 -5 0 0 lightmap_gray 16384 16384 -5.5 -5 0 0
+ ( 77 4215.25 224 ) ( 77 4152 224 ) ( 77 4152 162.5 ) clip_player 64 64 0 -5 0 0 lightmap_gray 16384 16384 0 -5 0 0
+}
+// brush 46
+{
+ ( -512 3688 264 ) ( -512 4136 264 ) ( -456 4136 264 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -320 -4072 0 0
+ ( -488.25 3611 256 ) ( -432.25 3611 256 ) ( -432.25 3611 224 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -320 -8 0 0
+ ( 8 3687 160 ) ( 8 4135 160 ) ( 8 4135 128 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 4072 -8 0 0
+ ( -304 3728 256 ) ( -360 3728 256 ) ( -304 3728 224 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -320 -8 0 0
+ ( -232 3672 264 ) ( -232 3688 264 ) ( -232 3672 296 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 4104 0 0 0
+ ( -328 4000 224 ) ( -288 4000 224 ) ( -328 4032 224 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -320 -4104 0 0
+}
+// brush 47
+{
+ ( -424 4136 120 ) ( -480 4136 120 ) ( -480 3688 120 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -320 -4072 0 0
+ ( -488 3611 256 ) ( -432 3611 256 ) ( -432 3611 224 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -320 -8 0 0
+ ( 8 3683 160 ) ( 8 4131 160 ) ( 8 4131 128 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 4072 -8 0 0
+ ( -304 3728 256 ) ( -360 3728 256 ) ( -304 3728 224 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -320 -8 0 0
+ ( -288 4000 224 ) ( -328 4000 224 ) ( -328 4032 224 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -320 -4104 0 0
+ ( -80 3704 232 ) ( -80 3704 176 ) ( -80 3736 232 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 4104 0 0 0
+}
+// brush 48
+{
+ ( -17 3958 120 ) ( -80 3958 120 ) ( -80 3891 120 ) clip 64 64 0 -3 0 0 lightmap_gray 16384 16384 0 -3 0 0
+ ( -80 3891 264 ) ( -80 3958 264 ) ( -17 3958 264 ) clip 64 64 0 -3 0 0 lightmap_gray 16384 16384 0 -3 0 0
+ ( -14 3958 264 ) ( -14 3958 120 ) ( -14 3855 120 ) clip 64 64 3 0 0 0 lightmap_gray 16384 16384 3 0 0 0
+ ( -14 3958 120 ) ( -14 3958 264 ) ( -80 3958 264 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -14 3855 264 ) ( -14 3855 120 ) ( -80 3958 120 ) clip 64 64 3 0 0 0 lightmap_gray 16384 16384 3 0 0 0
+}
+// brush 49
+{
+ ( -236.25 3728 128 ) ( -304.25 3728 128 ) ( -304.25 3724 128 ) eb_art_wall_plaster_two_tone_paint02 128 128 -0.25 0 0 0 lightmap_gray 16384 16384 -0.25 0 0 0
+ ( -300.25 3724 256 ) ( -300.25 3728 256 ) ( -232.25 3728 256 ) eb_art_wall_plaster_two_tone_paint02 128 128 -0.25 0 0 0 lightmap_gray 16384 16384 -0.25 0 0 0
+ ( -304.75 3712 192 ) ( -236.75 3712 192 ) ( -236.75 3712 164 ) eb_art_wall_plaster_two_tone_paint02 128 128 -0.25 0 0 0 lightmap_gray 16384 16384 -0.25 0 0 0
+ ( -232 3724 192 ) ( -232 3728 192 ) ( -232 3728 164 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -232.25 3728 192 ) ( -300.25 3728 192 ) ( -300.25 3728 164 ) eb_art_wall_plaster_two_tone_paint02 128 128 -0.25 0 0 0 lightmap_gray 16384 16384 -0.25 0 0 0
+ ( -299.5 3707.5 192 ) ( -299.5 3703.5 192 ) ( -299.5 3703.5 164 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 50
+{
+ ( -550.75 3644.5 260 ) ( -470.75 3644.5 260 ) ( -470.75 3612.5 260 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 -1 0 0 lightmap_gray 16384 16384 -3868.5 142.75 -90 0
+ ( -550.75 3611 260 ) ( -470.75 3611 260 ) ( -470.75 3611 252 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384.125 16384 -142.76147 -216 0 0
+ ( -467 3620.25 224 ) ( -547 3620.25 224 ) ( -547 3620.25 216 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384.113 16384 -142.76195 -216 0 0
+ ( -304 3607 369 ) ( -304 3615 369 ) ( -304 3615 401 ) eb_art_wall_plaster_two_tone_paint02 128 128 1 0 0 0 lightmap_gray 16384 16384 1 0 0 0
+ ( -266.75 3620 369 ) ( -266.75 3612 369 ) ( -266.75 3620 401 ) eb_art_wall_plaster_two_tone_paint02 128 128 1 0 0 0 lightmap_gray 16384 16384 1 0 0 0
+ ( 382.5 3620 224 ) ( 382.5 3612 224 ) ( 414.5 3620 224 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 -1 0 0 lightmap_gray 16384 16384 0 -1 0 0
+}
+// brush 51
+{
+ ( -550.75 3643.5 260 ) ( -470.75 3643.5 260 ) ( -470.75 3611.5 260 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -3867.5 142.75 -90 0
+ ( -550.75 3611 260 ) ( -470.75 3611 260 ) ( -470.75 3611 252 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384.125 16384 -142.76147 -216 0 0
+ ( -232 3614.75 224 ) ( -232 3646.75 224 ) ( -232 3646.75 216 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384.25 -16383.938 -3867.5022 216 180 0
+ ( -475 3712 224 ) ( -555 3712 224 ) ( -555 3712 216 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384.113 16384 -142.76192 -216 0 0
+ ( -352 3609.5 369 ) ( -352 3617.5 369 ) ( -352 3617.5 401 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 382.5 3619 224 ) ( 382.5 3611 224 ) ( 414.5 3619 224 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 52
+{
+ ( -470.75 3611.5 128 ) ( -470.75 3643.5 128 ) ( -550.75 3643.5 128 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384.25 16384.125 -3867.502 142.76147 -90 0
+ ( -550.75 3611 260 ) ( -470.75 3611 260 ) ( -470.75 3611 252 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384.125 16384 -142.76147 -216 0 0
+ ( -232 3614.75 224 ) ( -232 3646.75 224 ) ( -232 3646.75 216 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384.25 -16383.938 -3867.5022 216 180 0
+ ( -475 3712 224 ) ( -555 3712 224 ) ( -555 3712 216 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384.113 16384 -142.76186 -216 0 0
+ ( -352 3609.5 369 ) ( -352 3617.5 369 ) ( -352 3617.5 401 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 382.5 3611 160 ) ( 382.5 3619 160 ) ( 414.5 3611 160 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 53
+{
+ ( -274 3616 160 ) ( -279 3616 160 ) ( -279 3612 160 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 -1 0 0 lightmap_gray 16384 16384 0 -1 0 0
+ ( -270 3612 224 ) ( -270 3616 224 ) ( -265 3616 224 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 -1 0 0 lightmap_gray 16384 16384 0 -1 0 0
+ ( -272 3611 224 ) ( -267 3611 224 ) ( -267 3611 160 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -266.75 3612 192 ) ( -266.75 3616 192 ) ( -266.75 3616 128 ) eb_art_wall_plaster_two_tone_paint02 128 128 1 0 0 0 lightmap_gray 16384 16384 1 0 0 0
+ ( -315 3620 220 ) ( -320 3620 220 ) ( -320 3620 156 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -352 3615 224 ) ( -352 3611 224 ) ( -352 3611 160 ) eb_art_wall_plaster_two_tone_paint02 128 128 1 0 0 0 lightmap_gray 16384 16384 1 0 0 0
+}
+// brush 54
+{
+ ( -160 4144 120 ) ( -216 4144 120 ) ( -216 3696 120 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -56 -4080 0 0
+ ( 8 3744 160 ) ( 8 4192 160 ) ( 8 4192 128 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 4080 -8 0 0
+ ( -14.75 4117.25 160 ) ( -14.75 3669.25 160 ) ( -14.75 4117.25 128 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 4080 -8 0 0
+ ( -31.75 3959.5 264 ) ( 32.25 3959.5 264 ) ( 32.25 3959.5 296 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -272 0 0 0
+ ( -320 3472 160 ) ( -320 3488 160 ) ( -288 3488 160 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -320 -4080 0 0
+ ( 8.5 3728 264 ) ( -7.5 3728 264 ) ( 8.5 3728 296 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -320 0 0 0
+}
+// brush 55
+{
+ ( -154 4864 12 ) ( -930 4864 12 ) ( -930 3888 12 ) lightgrid_volume 64 64 -170 -2336 0 0 lightmap_gray 16384 16384 -170 -2336 0 0
+ ( -1106 3888 236 ) ( -1106 4864 236 ) ( -330 4864 236 ) lightgrid_volume 64 64 -170 -2336 0 0 lightmap_gray 16384 16384 -170 -2336 0 0
+ ( -1074 2856 716 ) ( -298 2856 716 ) ( -298 2856 708 ) lightgrid_volume 64 64 -170 -12.001526 0 0 lightmap_gray 16384 16384 -170 -12 0 0
+ ( 910 3872 716 ) ( 910 4848 716 ) ( 910 4848 708 ) lightgrid_volume 64 64 2336 -11.987976 0 0 lightmap_gray 16384 16384 2336 -12 0 0
+ ( -338 4888 716 ) ( -1114 4888 716 ) ( -1114 4888 708 ) lightgrid_volume 64 64 -170 -12 0 0 lightmap_gray 16384 16384 -170 -12 0 0
+ ( -1458 4882 716 ) ( -1458 3906 716 ) ( -1458 3906 708 ) lightgrid_volume 64 64 2336 -11.99884 0 0 lightmap_gray 16384 16384 2336 -12 0 0
+}
+// brush 56
+{
+ ( -832 4232 264 ) ( -384 4232 264 ) ( -384 4176 264 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -4040 448 -90 0
+ ( -832 4064 256 ) ( -832 4008 256 ) ( -832 4008 224 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 -16384 -4040 8 180 0
+ ( -824 4024 256 ) ( -824 4080 256 ) ( -824 4024 224 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 -16384 -4040 8 180 0
+ ( -824 3720 160 ) ( -824 3704 160 ) ( -792 3720 160 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384.5 16384 -3848.0037 192.00244 -90 0
+ ( -818 4658 272 ) ( -818 4658 256 ) ( -786 4658 272 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -192.00244 0 0 0
+ ( -824 3056 160 ) ( -856 3056 160 ) ( -824 3056 192 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -504 0 0 0
+}
+// brush 57
+{
+ ( -384 4144 120 ) ( -384 4200 120 ) ( -832 4200 120 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -4040 448 -90 0
+ ( -832 4064 256 ) ( -832 4008 256 ) ( -832 4008 224 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 -16384 -4040 8 180 0
+ ( -824 4024 256 ) ( -824 4080 256 ) ( -824 4024 224 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 -16384 -4040 8 180 0
+ ( -830 4658 264 ) ( -814 4658 264 ) ( -830 4658 296 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384.688 16384 -415.98721 0 0 0
+ ( -824 3704 160 ) ( -824 3720 160 ) ( -792 3720 160 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384.5 16384 -3848.0022 191.98975 -90 0
+ ( -840 2992 160 ) ( -872 2992 160 ) ( -840 2992 192 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -504 0 0 0
+}
+// brush 58
+{
+ ( -424 4104 120 ) ( -480 4104 120 ) ( -480 3656 120 ) rus_art_hexagon_tile 128 128 0 0 0 0 lightmap_gray 16384 16384 -320 -4144 0 0
+ ( -864 3040 128 ) ( 384 3040 128 ) ( 384 3040 120 ) rus_art_hexagon_tile 128 128 0 0 0 0 lightmap_gray 16384 16384 -320 0 0 0
+ ( 384 3040 128 ) ( 384 4670 128 ) ( 384 4670 120 ) rus_art_hexagon_tile 128 128 0 0 0 0 lightmap_gray 16384 16384 4144 0 0 0
+ ( 384 4670 128 ) ( -864 4670 128 ) ( -864 4670 120 ) rus_art_hexagon_tile 128 128 0 0 0 0 lightmap_gray 16384 16384 -320 0 0 0
+ ( -864 4670 128 ) ( -864 3040 128 ) ( -864 3040 120 ) rus_art_hexagon_tile 128 128 0 0 0 0 lightmap_gray 16384 16384 4144 0 0 0
+ ( -480 4072 128 ) ( -424 4072 128 ) ( -480 3624 128 ) rus_art_hexagon_tile 128 128 0 0 0 0 lightmap_gray 16384 16384 -320 -4144 0 0
+}
+// brush 59
+{
+ ( 377.5 4657 252 ) ( -866.5 4657 252 ) ( -866.5 3025 252 ) rus_tile_scuffed_linoleum01 128 128 0 0 0 0 lightmap_gray 16384 16384 -6.5 11 0 0
+ ( -866.5 3025 260 ) ( -866.5 4657 260 ) ( 377.5 4657 260 ) rus_tile_scuffed_linoleum01 128 128 0 0 0 0 lightmap_gray 16384 16384 -6.5 11 0 0
+ ( -866.5 3025 260 ) ( 377.5 3025 260 ) ( 377.5 3025 252 ) rus_tile_scuffed_linoleum01 128 128 0 0 0 0 lightmap_gray 16384 16384 -6.5 -132 0 0
+ ( 377.5 3025 260 ) ( 377.5 4657 260 ) ( 377.5 4657 252 ) rus_tile_scuffed_linoleum01 128 128 0 0 0 0 lightmap_gray 16384 16384 -11 -132 0 0
+ ( 377.5 4657 260 ) ( -866.5 4657 260 ) ( -866.5 4657 252 ) rus_tile_scuffed_linoleum01 128 128 0 0 0 0 lightmap_gray 16384 16384 -6.5 -132 0 0
+ ( -866.5 4657 260 ) ( -866.5 3025 260 ) ( -866.5 3025 252 ) rus_tile_scuffed_linoleum01 128 128 0 0 0 0 lightmap_gray 16384 16384 -11 -132 0 0
+}
+// brush 60
+{
+ ( 152 4400 120 ) ( -608 4400 120 ) ( -608 3192 120 ) lightgrid_volume 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -608 3192 368 ) ( -608 4400 368 ) ( 152 4400 368 ) lightgrid_volume 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -645 2881 368 ) ( 115 2881 368 ) ( 115 2881 120 ) lightgrid_volume 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 576 3152 368 ) ( 576 4360 368 ) ( 576 4360 120 ) lightgrid_volume 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 160 4800 368 ) ( -600 4800 368 ) ( -600 4800 120 ) lightgrid_volume 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -1024 4376 368 ) ( -1024 3168 368 ) ( -1024 3168 120 ) lightgrid_volume 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 61
+{
+ ( -552.75 3644.25 224 ) ( -552.75 3612.25 224 ) ( -552.75 3612.25 216 ) eb_art_wall_plaster_two_tone_paint02 128 128 1 0 0 0 lightmap_gray 16384.25 -16384 -3868.5022 216 180 0
+ ( -550.75 3611 260 ) ( -470.75 3611 260 ) ( -470.75 3611 252 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384.125 16384 -142.76147 -216 0 0
+ ( -467 3620.25 224 ) ( -547 3620.25 224 ) ( -547 3620.25 216 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384.113 16384 -142.76195 -216 0 0
+ ( -448 3613 345 ) ( -448 3605 345 ) ( -448 3613 377 ) eb_art_wall_plaster_two_tone_paint02 128 128 1 0 0 0 lightmap_gray 16384 16384 1 0 0 0
+ ( 382.5 3620 160 ) ( 382.5 3612 160 ) ( 414.5 3612 160 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 -1 0 0 lightmap_gray 16384 16384 0 -1 0 0
+ ( 382.5 3612 224 ) ( 382.5 3620 224 ) ( 414.5 3620 224 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 -1 0 0 lightmap_gray 16384 16384 0 -1 0 0
+}
+// brush 62
+{
+ ( -392 3619 168 ) ( -448 3619 168 ) ( -448 3611 168 ) clip 64 64 0 5 0 0 lightmap_gray 16384 16384 0 5 0 0
+ ( -448 3611 240 ) ( -448 3619 240 ) ( -392 3619 240 ) clip 64 64 0 5 0 0 lightmap_gray 16384 16384 0 5 0 0
+ ( -448 3611 264 ) ( -392 3611 264 ) ( -392 3611 240 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -352 3611 264 ) ( -352 3619 264 ) ( -352 3619 240 ) clip 64 64 -5 0 0 0 lightmap_gray 16384 16384 -5 0 0 0
+ ( -392 3620.25 264 ) ( -448 3620.25 264 ) ( -448 3620.25 240 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -448 3619 264 ) ( -448 3611 264 ) ( -448 3611 240 ) clip 64 64 -5 0 0 0 lightmap_gray 16384 16384 -5 0 0 0
+}
+// brush 63
+{
+ ( -535.5 3611 256 ) ( -479.5 3611 256 ) ( -479.5 3611 224 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -320 -8 0 0
+ ( -480 3712 160 ) ( -536 3712 160 ) ( -480 3712 128 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -320 -8 0 0
+ ( -448 3662.75 264 ) ( -448 3686.75 264 ) ( -448 3686.75 296 ) eb_art_wall_plaster_two_tone_paint02 128 128 1 0 0 0 lightmap_gray 16384 16384 4104 0 0 0
+ ( -352 3692 264 ) ( -352 3676 264 ) ( -352 3676 296 ) eb_art_wall_plaster_two_tone_paint02 128 128 1 0 0 0 lightmap_gray 16384 16384 4104 0 0 0
+ ( -456 3696 128 ) ( -344 3696 128 ) ( -344 3728 128 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 -1 0 0 lightmap_gray 16384 16384 -320 -4104 0 0
+ ( -312 3656 168 ) ( -312 3704 168 ) ( -280 3704 168 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 -1 0 0 lightmap_gray 16384 16384 -320 -4144 0 0
+}
+// brush 64
+{
+ ( -544 3702 120 ) ( -544 3638 120 ) ( -480 3638 120 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 3702 -736 90 0
+ ( -544 3662 128 ) ( -544 3598 128 ) ( -544 3598 112 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16383.992 3702 0 0 0
+ ( -536 3614 88 ) ( -536 3678 88 ) ( -536 3614 72 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16383.984 3702 0 0 0
+ ( -560 4080 312 ) ( -544 4080 312 ) ( -544 4080 344 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -288 0 0 0
+ ( -536 3824 264 ) ( -544 3824 264 ) ( -544 3824 296 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -536 3768 224 ) ( -536 3800 224 ) ( -504 3768 224 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 65
+{
+ ( -480 3630 264 ) ( -544 3630 264 ) ( -544 3694 264 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 3702 -736 90 0
+ ( -544 3662 128 ) ( -544 3598 128 ) ( -544 3598 112 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16383.992 3702 0 0 0
+ ( -536 3614 88 ) ( -536 3678 88 ) ( -536 3614 72 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16383.984 3702 0 0 0
+ ( -560 4080 312 ) ( -544 4080 312 ) ( -544 4080 344 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -288 0 0 0
+ ( -536 3824 264 ) ( -544 3824 264 ) ( -544 3824 296 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -536 3800 224 ) ( -536 3768 224 ) ( -504 3768 224 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 66
+{
+ ( -480 3630 264 ) ( -544 3630 264 ) ( -544 3694 264 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 3702 -736 90 0
+ ( -544 3662 128 ) ( -544 3598 128 ) ( -544 3598 112 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16383.992 3702 0 0 0
+ ( -536 3614 88 ) ( -536 3678 88 ) ( -536 3614 72 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16383.984 3702 0 0 0
+ ( -536 3760 264 ) ( -544 3760 264 ) ( -536 3760 296 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -544 3824 264 ) ( -536 3824 264 ) ( -544 3824 296 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -536 3800 224 ) ( -536 3768 224 ) ( -504 3768 224 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 67
+{
+ ( -544 3702 120 ) ( -544 3638 120 ) ( -480 3638 120 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 3702 -736 90 0
+ ( -544 3662 128 ) ( -544 3598 128 ) ( -544 3598 112 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16383.992 3702 0 0 0
+ ( -544 3614 128 ) ( -480 3614 128 ) ( -480 3614 112 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 -16384.016 736 0 180 0
+ ( -536 3614 88 ) ( -536 3678 88 ) ( -536 3614 72 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16383.984 3702 0 0 0
+ ( -544 3760 264 ) ( -536 3760 264 ) ( -536 3760 296 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -536 3768 224 ) ( -536 3800 224 ) ( -504 3768 224 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 68
+{
+ ( -480 3630 264 ) ( -544 3630 264 ) ( -544 3694 264 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 3702 -736 90 0
+ ( -544 3662 128 ) ( -544 3598 128 ) ( -544 3598 112 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16383.992 3702 0 0 0
+ ( -544 3614 128 ) ( -480 3614 128 ) ( -480 3614 112 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 -16384.016 736 0 180 0
+ ( -536 3614 88 ) ( -536 3678 88 ) ( -536 3614 72 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16383.984 3702 0 0 0
+ ( -544 3760 264 ) ( -536 3760 264 ) ( -536 3760 296 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -536 3800 224 ) ( -536 3768 224 ) ( -504 3768 224 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 69
+{
+ ( -550.75 3611 260 ) ( -470.75 3611 260 ) ( -470.75 3611 252 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384.125 16384 -142.76147 -216 0 0
+ ( -232 3614.75 224 ) ( -232 3646.75 224 ) ( -232 3646.75 216 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384.25 -16383.938 -3867.5022 216 180 0
+ ( -475 3712 224 ) ( -555 3712 224 ) ( -555 3712 216 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384.113 16384 -142.76454 -216 0 0
+ ( -352 3609.5 369 ) ( -352 3617.5 369 ) ( -352 3617.5 401 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 382.5 3619 160 ) ( 382.5 3611 160 ) ( 414.5 3611 160 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 382.5 3611 224 ) ( 382.5 3619 224 ) ( 414.5 3619 224 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 70
+{
+ ( -276 3224 128 ) ( -276 3288 128 ) ( -307 3288 128 ) clip 64 64 -2736 3887 -90 0 lightmap_gray 16384 16384 -2736 3887 -90 0
+ ( -311 3292 213 ) ( -280 3292 213 ) ( -280 3228 213 ) clip 64 64 -2736 3887 -90 0 lightmap_gray 16384 16384 -2736 3887 -90 0
+ ( -307 3288 168 ) ( -307 3224 168 ) ( -307 3224 128 ) clip 64 -64 -2736 0 180 0 lightmap_gray 16384 -16384 -2736 0 180 0
+ ( -307 3224 168 ) ( -276 3224 168 ) ( -276 3224 128 ) clip 64 64 -3887 0 0 0 lightmap_gray 16384 16384 -3887 0 0 0
+ ( -276 3224 168 ) ( -276 3288 168 ) ( -276 3288 128 ) clip 64 -64 -2736 0 180 0 lightmap_gray 16384 -16384 -2736 0 180 0
+ ( -277 3283 168 ) ( -308 3283 168 ) ( -308 3283 128 ) clip 64 64 -3887 0 0 0 lightmap_gray 16384 16384 -3887 0 0 0
+}
+// brush 71
+{
+ ( -792 3216 264 ) ( -792 3664 264 ) ( -736 3664 264 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -600 -3600 0 0
+ ( -960 3216 232 ) ( -904 3216 232 ) ( -904 3216 200 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -600 -8 0 0
+ ( -584 3224 256 ) ( -640 3224 256 ) ( -584 3224 224 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -600 -8 0 0
+ ( -473 3224 128 ) ( -457 3224 128 ) ( -473 3256 128 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -408 -3856 0 0
+ ( -200 3224 248 ) ( -200 3224 272 ) ( -200 3256 272 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 3856 0 0 0
+ ( -553 3216 258.5 ) ( -553 3224 258.5 ) ( -553 3224 290.5 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 4047.9983 0 0 0
+}
+// brush 72
+{
+ ( -784 3216 264 ) ( -784 3664 264 ) ( -728 3664 264 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -592 -3600 0 0
+ ( -808 3216 256 ) ( -752 3216 256 ) ( -752 3216 224 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -592 -8 0 0
+ ( 0 3246 160 ) ( 0 3694 160 ) ( 0 3694 128 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16383.938 3600 -8 0 0
+ ( -576 3224 256 ) ( -632 3224 256 ) ( -576 3224 224 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -592 -8 0 0
+ ( -467 3224 128 ) ( -451 3224 128 ) ( -467 3256 128 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -400 -3856 0 0
+ ( -128 3224 282 ) ( -128 3224 250 ) ( -128 3256 282 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 3856 0 0 0
+}
+// brush 73
+{
+ ( -160 4144 120 ) ( -216 4144 120 ) ( -216 3696 120 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -56 -4080 0 0
+ ( 8 3744 160 ) ( 8 4192 160 ) ( 8 4192 128 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 4080 -8 0 0
+ ( 0 4032 160 ) ( 0 3584 160 ) ( 0 4032 128 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 4080 -8 0 0
+ ( -320 3472 160 ) ( -320 3488 160 ) ( -288 3488 160 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -320 -4080 0 0
+ ( -8 3728 264 ) ( 8 3728 264 ) ( 8 3728 296 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -320 0 0 0
+ ( 8 3545 160 ) ( 0 3545 160 ) ( 0 3545 192 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 74
+{
+ ( -160 4144 120 ) ( -216 4144 120 ) ( -216 3696 120 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -56 -4080 0 0
+ ( -312 3176 264 ) ( -256 3176 264 ) ( -256 3176 232 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -56 -8 0 0
+ ( 8 3744 160 ) ( 8 4192 160 ) ( 8 4192 128 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 4080 -8 0 0
+ ( 0 4032 160 ) ( 0 3584 160 ) ( 0 4032 128 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 4080 -8 0 0
+ ( -320 3472 160 ) ( -320 3488 160 ) ( -288 3488 160 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -320 -4080 0 0
+ ( 0 3482 160 ) ( 6 3482 160 ) ( 0 3482 192 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 75
+{
+ ( 8 3651 155 ) ( 8 4099 155 ) ( 8 4099 123 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 4104 -8 0 0
+ ( 0 4128 160 ) ( 0 3680 160 ) ( 0 4128 128 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 4104 -8 0 0
+ ( -320 3512 160 ) ( -320 3496 160 ) ( -288 3512 160 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -320 -4104 0 0
+ ( -320 3496 224 ) ( -320 3512 224 ) ( -288 3512 224 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -320 -4104 0 0
+ ( -320 3545 203 ) ( -320 3545 227 ) ( -288 3545 227 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -320 0 0 0
+ ( -8 3728 264 ) ( 8 3728 264 ) ( 8 3728 296 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -320 0 0 0
+}
+// brush 76
+{
+ ( -296 3176 264 ) ( -240 3176 264 ) ( -240 3176 232 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -56 -8 0 0
+ ( 8 3695 160 ) ( 8 4143 160 ) ( 8 4143 128 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 4080 -8 0 0
+ ( 0 4080 160 ) ( 0 3632 160 ) ( 0 4080 128 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 4080 -8 0 0
+ ( -320 3448 160 ) ( -320 3432 160 ) ( -288 3448 160 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -320 -4080 0 0
+ ( -320 3472 224 ) ( -320 3488 224 ) ( -288 3488 224 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -320 -4080 0 0
+ ( -321 3482 221 ) ( -321 3482 205 ) ( -289 3482 221 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 -320 0 0 0
+}
+// brush 77
+{
+ ( -125 3224 128 ) ( -197 3224 128 ) ( -197 3216 128 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -197 3216 162 ) ( -197 3224 162 ) ( -125 3224 162 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -197 3216 264 ) ( -125 3216 264 ) ( -125 3216 128 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -128 3216 264 ) ( -128 3224 264 ) ( -128 3224 128 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -125 3224 264 ) ( -197 3224 264 ) ( -197 3224 128 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -200 3223.75 264 ) ( -200 3215.75 264 ) ( -200 3215.75 128 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 78
+{
+ ( -470.75 3612.5 128 ) ( -470.75 3644.5 128 ) ( -550.75 3644.5 128 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 -1 0 0 lightmap_gray 16384.25 16384.125 -3868.502 142.76147 -90 0
+ ( -552.75 3644.25 224 ) ( -552.75 3612.25 224 ) ( -552.75 3612.25 216 ) eb_art_wall_plaster_two_tone_paint02 128 128 1 0 0 0 lightmap_gray 16384.25 -16384 -3868.5022 216 180 0
+ ( -550.75 3611 260 ) ( -470.75 3611 260 ) ( -470.75 3611 252 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384.125 16384 -142.76147 -216 0 0
+ ( -467 3620.25 224 ) ( -547 3620.25 224 ) ( -547 3620.25 216 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384.113 16384 -142.76195 -216 0 0
+ ( 382.5 3612 160 ) ( 382.5 3620 160 ) ( 414.5 3612 160 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 -1 0 0 lightmap_gray 16384 16384 0 -1 0 0
+ ( -448 3619.5 168 ) ( -448 3613 168 ) ( -448 3619.5 200 ) caulk 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 79
+{
+ ( -550.75 3644.5 260 ) ( -470.75 3644.5 260 ) ( -470.75 3612.5 260 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 -1 0 0 lightmap_gray 16384 16384 -3868.5 142.75 -90 0
+ ( -552.75 3644.25 224 ) ( -552.75 3612.25 224 ) ( -552.75 3612.25 216 ) eb_art_wall_plaster_two_tone_paint02 128 128 1 0 0 0 lightmap_gray 16384.25 -16384 -3868.5022 216 180 0
+ ( -550.75 3611 260 ) ( -470.75 3611 260 ) ( -470.75 3611 252 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384.125 16384 -142.76147 -216 0 0
+ ( -467 3620.25 224 ) ( -547 3620.25 224 ) ( -547 3620.25 216 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 0 0 0 lightmap_gray 16384.113 16384 -142.76195 -216 0 0
+ ( -352 3616.5 369 ) ( -352 3608.5 369 ) ( -352 3616.5 401 ) eb_art_wall_plaster_two_tone_paint02 128 128 1 0 0 0 lightmap_gray 16384 16384 1 0 0 0
+ ( 382.5 3620 224 ) ( 382.5 3612 224 ) ( 414.5 3620 224 ) eb_art_wall_plaster_two_tone_paint02 128 128 0 -1 0 0 lightmap_gray 16384 16384 0 -1 0 0
+}
+}
+// entity 1
+{
+"angles" "0 0 0"
+"origin" "-226.5 3912.0 164.0"
+"classname" "info_player_start"
+}
+// entity 2
+{
+"classname" "node_pathnode"
+"origin" "-960.0 2112.0 36.0"
+}
+// entity 3
+{
+"classname" "node_pathnode"
+"origin" "-960.0 2240.0 36.0"
+}
+// entity 4
+{
+"classname" "node_pathnode"
+"origin" "-960.0 2368.0 36.0"
+}
+// entity 5
+{
+"classname" "node_pathnode"
+"origin" "-960.0 2496.0 36.0"
+}
+// entity 6
+{
+"classname" "node_pathnode"
+"origin" "-768.0 2496.0 36.0"
+}
+// entity 7
+{
+"classname" "node_pathnode"
+"origin" "-768.0 2368.0 36.0"
+}
+// entity 8
+{
+"classname" "node_pathnode"
+"origin" "-768.0 2240.0 36.0"
+}
+// entity 9
+{
+"classname" "node_pathnode"
+"origin" "-768.0 2112.0 36.0"
+}
+// entity 10
+{
+"classname" "node_pathnode"
+"origin" "-576.0 2496.0 36.0"
+}
+// entity 11
+{
+"classname" "node_pathnode"
+"origin" "-384.0 2112.0 36.0"
+}
+// entity 12
+{
+"classname" "node_pathnode"
+"origin" "-384.0 2240.0 36.0"
+}
+// entity 13
+{
+"classname" "node_pathnode"
+"origin" "-384.0 2368.0 36.0"
+}
+// entity 14
+{
+"classname" "node_pathnode"
+"origin" "-384.0 2496.0 36.0"
+}
+// entity 15
+{
+"classname" "node_pathnode"
+"origin" "-192.0 2112.0 36.0"
+}
+// entity 16
+{
+"classname" "node_pathnode"
+"origin" "-192.0 2240.0 36.0"
+}
+// entity 17
+{
+"classname" "node_pathnode"
+"origin" "-192.0 2368.0 36.0"
+}
+// entity 18
+{
+"classname" "node_pathnode"
+"origin" "-192.0 2496.0 36.0"
+}
+// entity 19
+{
+"classname" "node_pathnode"
+"origin" "0.0 2112.0 36.0"
+}
+// entity 20
+{
+"classname" "node_pathnode"
+"origin" "0.0 2240.0 36.0"
+}
+// entity 21
+{
+"classname" "node_pathnode"
+"origin" "0.0 2368.0 36.0"
+}
+// entity 22
+{
+"classname" "node_pathnode"
+"origin" "0.0 2496.0 36.0"
+}
+// entity 23
+{
+"classname" "node_pathnode"
+"origin" "-192.0 1600.0 36.0"
+}
+// entity 24
+{
+"classname" "node_pathnode"
+"origin" "-192.0 1728.0 36.0"
+}
+// entity 25
+{
+"classname" "node_pathnode"
+"origin" "-192.0 1856.0 36.0"
+}
+// entity 26
+{
+"classname" "node_pathnode"
+"origin" "-192.0 1984.0 36.0"
+}
+// entity 27
+{
+"classname" "node_pathnode"
+"origin" "0.0 1600.0 36.0"
+}
+// entity 28
+{
+"classname" "node_pathnode"
+"origin" "0.0 1728.0 36.0"
+}
+// entity 29
+{
+"classname" "node_pathnode"
+"origin" "0.0 1856.0 36.0"
+}
+// entity 30
+{
+"classname" "node_pathnode"
+"origin" "0.0 1984.0 36.0"
+}
+// entity 31
+{
+"classname" "node_pathnode"
+"origin" "192.0 2112.0 36.0"
+}
+// entity 32
+{
+"classname" "node_pathnode"
+"origin" "192.0 2240.0 36.0"
+}
+// entity 33
+{
+"classname" "node_pathnode"
+"origin" "192.0 2368.0 36.0"
+}
+// entity 34
+{
+"classname" "node_pathnode"
+"origin" "192.0 2496.0 36.0"
+}
+// entity 35
+{
+"classname" "node_pathnode"
+"origin" "192.0 1600.0 36.0"
+}
+// entity 36
+{
+"classname" "node_pathnode"
+"origin" "192.0 1728.0 36.0"
+}
+// entity 37
+{
+"classname" "node_pathnode"
+"origin" "192.0 1856.0 36.0"
+}
+// entity 38
+{
+"classname" "node_pathnode"
+"origin" "192.0 1984.0 36.0"
+}
+// entity 39
+{
+"classname" "node_pathnode"
+"origin" "-576.0 2112.0 36.0"
+}
+// entity 40
+{
+"classname" "node_pathnode"
+"origin" "-768.0 1600.0 36.0"
+}
+// entity 41
+{
+"classname" "node_pathnode"
+"origin" "-768.0 1728.0 36.0"
+}
+// entity 42
+{
+"classname" "node_pathnode"
+"origin" "-768.0 1856.0 36.0"
+}
+// entity 43
+{
+"classname" "node_pathnode"
+"origin" "-768.0 1984.0 36.0"
+}
+// entity 44
+{
+"classname" "node_pathnode"
+"origin" "-576.0 1600.0 36.0"
+}
+// entity 45
+{
+"classname" "node_pathnode"
+"origin" "-576.0 1728.0 36.0"
+}
+// entity 46
+{
+"classname" "node_pathnode"
+"origin" "-576.0 1856.0 36.0"
+}
+// entity 47
+{
+"classname" "node_pathnode"
+"origin" "-576.0 1984.0 36.0"
+}
+// entity 48
+{
+"classname" "node_pathnode"
+"origin" "-384.0 1600.0 36.0"
+}
+// entity 49
+{
+"classname" "node_pathnode"
+"origin" "-384.0 1728.0 36.0"
+}
+// entity 50
+{
+"classname" "node_pathnode"
+"origin" "-384.0 1856.0 36.0"
+}
+// entity 51
+{
+"classname" "node_pathnode"
+"origin" "-384.0 1984.0 36.0"
+}
+// entity 52
+{
+"classname" "node_pathnode"
+"origin" "-960.0 1600.0 36.0"
+}
+// entity 53
+{
+"classname" "node_pathnode"
+"origin" "-960.0 1728.0 36.0"
+}
+// entity 54
+{
+"classname" "node_pathnode"
+"origin" "-960.0 1856.0 36.0"
+}
+// entity 55
+{
+"classname" "node_pathnode"
+"origin" "-960.0 1984.0 36.0"
+}
+// entity 56
+{
+"classname" "node_pathnode"
+"origin" "384.0 2112.0 36.0"
+}
+// entity 57
+{
+"classname" "node_pathnode"
+"origin" "384.0 2240.0 36.0"
+}
+// entity 58
+{
+"classname" "node_pathnode"
+"origin" "384.0 2368.0 36.0"
+}
+// entity 59
+{
+"classname" "node_pathnode"
+"origin" "384.0 2496.0 36.0"
+}
+// entity 60
+{
+"classname" "node_pathnode"
+"origin" "384.0 1600.0 36.0"
+}
+// entity 61
+{
+"classname" "node_pathnode"
+"origin" "384.0 1728.0 36.0"
+}
+// entity 62
+{
+"classname" "node_pathnode"
+"origin" "384.0 1856.0 36.0"
+}
+// entity 63
+{
+"classname" "node_pathnode"
+"origin" "384.0 1984.0 36.0"
+}
+// entity 64
+{
+"classname" "node_pathnode"
+"origin" "576.0 2112.0 36.0"
+}
+// entity 65
+{
+"classname" "node_pathnode"
+"origin" "576.0 2240.0 36.0"
+}
+// entity 66
+{
+"classname" "node_pathnode"
+"origin" "576.0 2368.0 36.0"
+}
+// entity 67
+{
+"classname" "node_pathnode"
+"origin" "576.0 2496.0 36.0"
+}
+// entity 68
+{
+"classname" "node_pathnode"
+"origin" "576.0 1600.0 36.0"
+}
+// entity 69
+{
+"classname" "node_pathnode"
+"origin" "576.0 1728.0 36.0"
+}
+// entity 70
+{
+"classname" "node_pathnode"
+"origin" "576.0 1856.0 36.0"
+}
+// entity 71
+{
+"classname" "node_pathnode"
+"origin" "576.0 1984.0 36.0"
+}
+// entity 72
+{
+"classname" "node_pathnode"
+"origin" "768.0 2112.0 36.0"
+}
+// entity 73
+{
+"classname" "node_pathnode"
+"origin" "768.0 2240.0 36.0"
+}
+// entity 74
+{
+"classname" "node_pathnode"
+"origin" "768.0 2368.0 36.0"
+}
+// entity 75
+{
+"classname" "node_pathnode"
+"origin" "768.0 2496.0 36.0"
+}
+// entity 76
+{
+"classname" "node_pathnode"
+"origin" "768.0 1600.0 36.0"
+}
+// entity 77
+{
+"classname" "node_pathnode"
+"origin" "768.0 1728.0 36.0"
+}
+// entity 78
+{
+"classname" "node_pathnode"
+"origin" "768.0 1856.0 36.0"
+}
+// entity 79
+{
+"classname" "node_pathnode"
+"origin" "768.0 1984.0 36.0"
+}
+// entity 80
+{
+"classname" "node_pathnode"
+"origin" "960.0 2112.0 36.0"
+}
+// entity 81
+{
+"classname" "node_pathnode"
+"origin" "960.0 2240.0 36.0"
+}
+// entity 82
+{
+"classname" "node_pathnode"
+"origin" "960.0 2368.0 36.0"
+}
+// entity 83
+{
+"classname" "node_pathnode"
+"origin" "960.0 2496.0 36.0"
+}
+// entity 84
+{
+"classname" "node_pathnode"
+"origin" "960.0 1600.0 36.0"
+}
+// entity 85
+{
+"classname" "node_pathnode"
+"origin" "960.0 1728.0 36.0"
+}
+// entity 86
+{
+"classname" "node_pathnode"
+"origin" "960.0 1856.0 36.0"
+}
+// entity 87
+{
+"classname" "node_pathnode"
+"origin" "960.0 1984.0 36.0"
+}
+// entity 88
+{
+"classname" "node_pathnode"
+"origin" "-960.0 1088.0 36.0"
+}
+// entity 89
+{
+"classname" "node_pathnode"
+"origin" "-960.0 1216.0 36.0"
+}
+// entity 90
+{
+"classname" "node_pathnode"
+"origin" "-960.0 1344.0 36.0"
+}
+// entity 91
+{
+"classname" "node_pathnode"
+"origin" "-960.0 1472.0 36.0"
+}
+// entity 92
+{
+"classname" "node_pathnode"
+"origin" "-768.0 1472.0 36.0"
+}
+// entity 93
+{
+"classname" "node_pathnode"
+"origin" "-768.0 1344.0 36.0"
+}
+// entity 94
+{
+"classname" "node_pathnode"
+"origin" "-768.0 1216.0 36.0"
+}
+// entity 95
+{
+"classname" "node_pathnode"
+"origin" "-768.0 1088.0 36.0"
+}
+// entity 96
+{
+"classname" "node_pathnode"
+"origin" "-576.0 1344.0 36.0"
+}
+// entity 97
+{
+"classname" "node_pathnode"
+"origin" "-576.0 1472.0 36.0"
+}
+// entity 98
+{
+"classname" "node_pathnode"
+"origin" "-384.0 1088.0 36.0"
+}
+// entity 99
+{
+"classname" "node_pathnode"
+"origin" "-384.0 1216.0 36.0"
+}
+// entity 100
+{
+"classname" "node_pathnode"
+"origin" "-384.0 1344.0 36.0"
+}
+// entity 101
+{
+"classname" "node_pathnode"
+"origin" "-384.0 1472.0 36.0"
+}
+// entity 102
+{
+"classname" "node_pathnode"
+"origin" "-192.0 1216.0 36.0"
+}
+// entity 103
+{
+"classname" "node_pathnode"
+"origin" "-192.0 1344.0 36.0"
+}
+// entity 104
+{
+"classname" "node_pathnode"
+"origin" "-192.0 1472.0 36.0"
+}
+// entity 105
+{
+"classname" "node_pathnode"
+"origin" "0.0 1088.0 36.0"
+}
+// entity 106
+{
+"classname" "node_pathnode"
+"origin" "0.0 1216.0 36.0"
+}
+// entity 107
+{
+"classname" "node_pathnode"
+"origin" "0.0 1344.0 36.0"
+}
+// entity 108
+{
+"classname" "node_pathnode"
+"origin" "0.0 1472.0 36.0"
+}
+// entity 109
+{
+"classname" "node_pathnode"
+"origin" "-192.0 576.0 36.0"
+}
+// entity 110
+{
+"classname" "node_pathnode"
+"origin" "-192.0 704.0 36.0"
+}
+// entity 111
+{
+"classname" "node_pathnode"
+"origin" "-192.0 832.0 36.0"
+}
+// entity 112
+{
+"classname" "node_pathnode"
+"origin" "-192.0 960.0 36.0"
+}
+// entity 113
+{
+"classname" "node_pathnode"
+"origin" "0.0 576.0 36.0"
+}
+// entity 114
+{
+"classname" "node_pathnode"
+"origin" "0.0 704.0 36.0"
+}
+// entity 115
+{
+"classname" "node_pathnode"
+"origin" "0.0 832.0 36.0"
+}
+// entity 116
+{
+"classname" "node_pathnode"
+"origin" "0.0 960.0 36.0"
+}
+// entity 117
+{
+"classname" "node_pathnode"
+"origin" "192.0 1088.0 36.0"
+}
+// entity 118
+{
+"classname" "node_pathnode"
+"origin" "192.0 1216.0 36.0"
+}
+// entity 119
+{
+"classname" "node_pathnode"
+"origin" "192.0 1344.0 36.0"
+}
+// entity 120
+{
+"classname" "node_pathnode"
+"origin" "192.0 1472.0 36.0"
+}
+// entity 121
+{
+"classname" "node_pathnode"
+"origin" "192.0 576.0 36.0"
+}
+// entity 122
+{
+"classname" "node_pathnode"
+"origin" "192.0 704.0 36.0"
+}
+// entity 123
+{
+"classname" "node_pathnode"
+"origin" "192.0 832.0 36.0"
+}
+// entity 124
+{
+"classname" "node_pathnode"
+"origin" "192.0 960.0 36.0"
+}
+// entity 125
+{
+"classname" "node_pathnode"
+"origin" "-576.0 1216.0 36.0"
+}
+// entity 126
+{
+"classname" "node_pathnode"
+"origin" "-768.0 576.0 36.0"
+}
+// entity 127
+{
+"classname" "node_pathnode"
+"origin" "-768.0 704.0 36.0"
+}
+// entity 128
+{
+"classname" "node_pathnode"
+"origin" "-768.0 832.0 36.0"
+}
+// entity 129
+{
+"classname" "node_pathnode"
+"origin" "-768.0 960.0 36.0"
+}
+// entity 130
+{
+"classname" "node_pathnode"
+"origin" "-576.0 576.0 36.0"
+}
+// entity 131
+{
+"classname" "node_pathnode"
+"origin" "-576.0 704.0 36.0"
+}
+// entity 132
+{
+"classname" "node_pathnode"
+"origin" "-576.0 832.0 36.0"
+}
+// entity 133
+{
+"classname" "node_pathnode"
+"origin" "-576.0 960.0 36.0"
+}
+// entity 134
+{
+"classname" "node_pathnode"
+"origin" "-384.0 576.0 36.0"
+}
+// entity 135
+{
+"classname" "node_pathnode"
+"origin" "-384.0 704.0 36.0"
+}
+// entity 136
+{
+"classname" "node_pathnode"
+"origin" "-384.0 832.0 36.0"
+}
+// entity 137
+{
+"classname" "node_pathnode"
+"origin" "-384.0 960.0 36.0"
+}
+// entity 138
+{
+"classname" "node_pathnode"
+"origin" "-960.0 576.0 36.0"
+}
+// entity 139
+{
+"classname" "node_pathnode"
+"origin" "-960.0 704.0 36.0"
+}
+// entity 140
+{
+"classname" "node_pathnode"
+"origin" "-960.0 832.0 36.0"
+}
+// entity 141
+{
+"classname" "node_pathnode"
+"origin" "-960.0 960.0 36.0"
+}
+// entity 142
+{
+"classname" "node_pathnode"
+"origin" "384.0 1088.0 36.0"
+}
+// entity 143
+{
+"classname" "node_pathnode"
+"origin" "384.0 1216.0 36.0"
+}
+// entity 144
+{
+"classname" "node_pathnode"
+"origin" "384.0 1344.0 36.0"
+}
+// entity 145
+{
+"classname" "node_pathnode"
+"origin" "384.0 1472.0 36.0"
+}
+// entity 146
+{
+"classname" "node_pathnode"
+"origin" "384.0 576.0 36.0"
+}
+// entity 147
+{
+"classname" "node_pathnode"
+"origin" "384.0 704.0 36.0"
+}
+// entity 148
+{
+"classname" "node_pathnode"
+"origin" "384.0 832.0 36.0"
+}
+// entity 149
+{
+"classname" "node_pathnode"
+"origin" "384.0 960.0 36.0"
+}
+// entity 150
+{
+"classname" "node_pathnode"
+"origin" "576.0 1088.0 36.0"
+}
+// entity 151
+{
+"classname" "node_pathnode"
+"origin" "576.0 1216.0 36.0"
+}
+// entity 152
+{
+"classname" "node_pathnode"
+"origin" "576.0 1344.0 36.0"
+}
+// entity 153
+{
+"classname" "node_pathnode"
+"origin" "576.0 1472.0 36.0"
+}
+// entity 154
+{
+"classname" "node_pathnode"
+"origin" "576.0 576.0 36.0"
+}
+// entity 155
+{
+"classname" "node_pathnode"
+"origin" "576.0 704.0 36.0"
+}
+// entity 156
+{
+"classname" "node_pathnode"
+"origin" "576.0 832.0 36.0"
+}
+// entity 157
+{
+"classname" "node_pathnode"
+"origin" "576.0 960.0 36.0"
+}
+// entity 158
+{
+"classname" "node_pathnode"
+"origin" "768.0 1088.0 36.0"
+}
+// entity 159
+{
+"classname" "node_pathnode"
+"origin" "768.0 1216.0 36.0"
+}
+// entity 160
+{
+"classname" "node_pathnode"
+"origin" "768.0 1344.0 36.0"
+}
+// entity 161
+{
+"classname" "node_pathnode"
+"origin" "768.0 1472.0 36.0"
+}
+// entity 162
+{
+"classname" "node_pathnode"
+"origin" "768.0 576.0 36.0"
+}
+// entity 163
+{
+"classname" "node_pathnode"
+"origin" "768.0 704.0 36.0"
+}
+// entity 164
+{
+"classname" "node_pathnode"
+"origin" "768.0 832.0 36.0"
+}
+// entity 165
+{
+"classname" "node_pathnode"
+"origin" "768.0 960.0 36.0"
+}
+// entity 166
+{
+"classname" "node_pathnode"
+"origin" "960.0 1088.0 36.0"
+}
+// entity 167
+{
+"classname" "node_pathnode"
+"origin" "960.0 1216.0 36.0"
+}
+// entity 168
+{
+"classname" "node_pathnode"
+"origin" "960.0 1344.0 36.0"
+}
+// entity 169
+{
+"classname" "node_pathnode"
+"origin" "960.0 1472.0 36.0"
+}
+// entity 170
+{
+"classname" "node_pathnode"
+"origin" "960.0 576.0 36.0"
+}
+// entity 171
+{
+"classname" "node_pathnode"
+"origin" "960.0 704.0 36.0"
+}
+// entity 172
+{
+"classname" "node_pathnode"
+"origin" "960.0 832.0 36.0"
+}
+// entity 173
+{
+"classname" "node_pathnode"
+"origin" "960.0 960.0 36.0"
+}
+// entity 174
+{
+"classname" "node_pathnode"
+"origin" "-576.0 1088.0 36.0"
+}
+// entity 175
+{
+"classname" "node_pathnode"
+"origin" "-576.0 2240.0 36.0"
+}
+// entity 176
+{
+"classname" "node_pathnode"
+"origin" "-576.0 2368.0 36.0"
+}
+// entity 177
+{
+"classname" "node_pathnode"
+"origin" "-192.0 1088.0 36.0"
+}
+// entity 178
+{
+"angles" "0 0 0"
+"script_int" "2"
+"targetname" "initial_spawn_points"
+"origin" "-225.5 3817.0 152.0"
+"classname" "script_struct"
+}
+// entity 179
+{
+"angles" "0 0 0"
+"script_int" "2"
+"targetname" "initial_spawn_points"
+"origin" "-225.5 3881.0 152.0"
+"classname" "script_struct"
+}
+// entity 180
+{
+"angles" "0 0 0"
+"script_int" "2"
+"targetname" "initial_spawn_points"
+"origin" "-225.5 3945.0 152.0"
+"classname" "script_struct"
+}
+// entity 181
+{
+"angles" "0 0 0"
+"script_int" "2"
+"targetname" "initial_spawn_points"
+"origin" "-225.5 4001.0 152.0"
+"classname" "script_struct"
+}
+// entity 182
+{
+"target" "auto1"
+"angles" "0 330 0"
+"speed" "200"
+"targetname" "intermission"
+"origin" "-204.0 4336.0 200.0"
+"classname" "script_struct"
+}
+// entity 183
+{
+"angles" "0 30 0"
+"speed" "1"
+"targetname" "auto1"
+"origin" "-196.0 3528.0 200.0"
+"classname" "script_struct"
+}
+// entity 184
+{
+"target" "auto2"
+"angles" "0 30 0"
+"speed" "30"
+"targetname" "intermission"
+"origin" "-292.0 3260.0 192.0"
+"classname" "script_struct"
+}
+// entity 185
+{
+"origin" "-178.0 3388.0 127.5"
+"angles" "0 2.50448e-006 0"
+"model" "_prefabs/zombiemode/vending/vending_revive.map"
+"classname" "misc_prefab"
+}
+// entity 186
+{
+"angles" "0 180 0"
+"origin" "-161.1 3222.1 122.0"
+"model" "_prefabs/zombiemode/blocker_barricade.map"
+"classname" "misc_prefab"
+}
+// entity 187
+{
+"origin" "-168.0 3824.0 194.0"
+"targetname" "auto2"
+"classname" "info_null"
+}
+// entity 188
+{
+"origin" "44.3 3472.2 144.0"
+"classname" "node_pathnode"
+}
+// entity 189
+{
+"origin" "56.0 3784.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 190
+{
+"origin" "48.0 3832.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 191
+{
+"origin" "48.0 3888.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 192
+{
+"origin" "48.0 3944.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 193
+{
+"origin" "48.0 4000.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 194
+{
+"origin" "0.0 4008.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 195
+{
+"origin" "-440.0 3840.0 194.0"
+"targetname" "auto3"
+"classname" "info_null"
+}
+// entity 196
+{
+"origin" "-608.0 3880.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 197
+{
+"origin" "-608.0 3936.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 198
+{
+"origin" "-608.0 3992.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 199
+{
+"origin" "-608.0 4048.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 200
+{
+"origin" "-608.0 4104.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 201
+{
+"origin" "-608.0 4160.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 202
+{
+"origin" "-608.0 3824.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 203
+{
+"classname" "node_pathnode"
+"origin" "231.0 3783.0 144.0"
+}
+// entity 204
+{
+"classname" "node_pathnode"
+"origin" "184.0 3784.0 144.0"
+}
+// entity 205
+{
+"classname" "node_pathnode"
+"origin" "128.0 3784.0 144.0"
+}
+// entity 206
+{
+"origin" "0.0 4048.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 207
+{
+"origin" "-548.0 3796.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 208
+{
+"origin" "-436.0 3780.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 209
+{
+"origin" "-492.0 3784.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 210
+{
+"origin" "-600.0 3824.0 194.0"
+"targetname" "auto7"
+"classname" "info_null"
+}
+// entity 211
+{
+"origin" "-448.0 3106.5 194.0"
+"targetname" "auto8"
+"classname" "info_null"
+}
+// entity 212
+{
+"origin" "-161.7 3104.2 194.0"
+"targetname" "auto9"
+"classname" "info_null"
+}
+// entity 213
+{
+"origin" "48.0 3512.0 194.0"
+"targetname" "auto10"
+"classname" "info_null"
+}
+// entity 214
+{
+"origin" "32.0 4016.0 194.0"
+"targetname" "auto11"
+"classname" "info_null"
+}
+// entity 215
+{
+"classname" "node_pathnode"
+"origin" "-264.0 3128.0 144.0"
+}
+// entity 216
+{
+"origin" "-392.0 3536.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 217
+{
+"origin" "-392.0 3584.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 218
+{
+"origin" "-328.8 4009.5 194.0"
+"targetname" "auto12"
+"classname" "info_null"
+}
+// entity 219
+{
+"classname" "node_pathnode"
+"origin" "-320.0 3128.0 144.0"
+}
+// entity 220
+{
+"classname" "node_pathnode"
+"origin" "-384.0 3128.0 144.0"
+}
+// entity 221
+{
+"classname" "node_pathnode"
+"origin" "-448.0 3128.0 144.0"
+}
+// entity 222
+{
+"classname" "node_pathnode"
+"origin" "-200.0 3152.0 144.0"
+}
+// entity 223
+{
+"classname" "node_pathnode"
+"origin" "-160.0 3136.0 144.0"
+}
+// entity 224
+{
+"origin" "-225.1 3263.2 144.0"
+"classname" "node_pathnode"
+}
+// entity 225
+{
+"origin" "-162.6 3281.7 144.0"
+"classname" "node_pathnode"
+}
+// entity 226
+{
+"origin" "-162.6 3329.7 144.0"
+"classname" "node_pathnode"
+}
+// entity 227
+{
+"classname" "node_pathnode"
+"origin" "168.0 4308.0 144.0"
+}
+// entity 228
+{
+"classname" "node_pathnode"
+"origin" "166.0 4257.0 144.0"
+}
+// entity 229
+{
+"classname" "node_pathnode"
+"origin" "162.0 4187.0 144.0"
+}
+// entity 230
+{
+"classname" "node_pathnode"
+"origin" "178.0 4485.0 144.0"
+}
+// entity 231
+{
+"classname" "node_pathnode"
+"origin" "176.0 4434.0 144.0"
+}
+// entity 232
+{
+"classname" "node_pathnode"
+"origin" "172.0 4364.0 144.0"
+}
+// entity 233
+{
+"classname" "node_pathnode"
+"origin" "174.0 4548.0 144.0"
+}
+// entity 234
+{
+"origin" "168.0 4192.0 194.0"
+"targetname" "auto16"
+"classname" "info_null"
+}
+// entity 235
+{
+"classname" "node_pathnode"
+"origin" "48.0 3551.0 144.0"
+}
+// entity 236
+{
+"origin" "44.3 3424.2 144.0"
+"classname" "node_pathnode"
+}
+// entity 237
+{
+"origin" "44.3 3368.2 144.0"
+"classname" "node_pathnode"
+}
+// entity 238
+{
+"origin" "-520.0 3576.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 239
+{
+"origin" "-520.0 3512.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 240
+{
+"origin" "-520.0 3440.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 241
+{
+"origin" "-520.0 3384.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 242
+{
+"origin" "-520.0 3328.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 243
+{
+"origin" "-520.0 3256.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 244
+{
+"origin" "-459.0 3571.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 245
+{
+"origin" "-456.0 3504.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 246
+{
+"origin" "-456.0 3440.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 247
+{
+"origin" "-456.0 3384.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 248
+{
+"origin" "-456.0 3328.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 249
+{
+"origin" "-456.0 3256.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 250
+{
+"origin" "-396.0 3323.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 251
+{
+"origin" "-391.0 3255.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 252
+{
+"origin" "-392.0 3392.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 253
+{
+"origin" "-280.0 3568.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 254
+{
+"origin" "-272.0 3504.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 255
+{
+"origin" "-272.0 3448.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 256
+{
+"origin" "-272.0 3392.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 257
+{
+"origin" "-273.0 3320.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 258
+{
+"origin" "-338.5 3272.5 144.0"
+"classname" "node_pathnode"
+}
+// entity 259
+{
+"origin" "-225.1 3335.2 144.0"
+"classname" "node_pathnode"
+}
+// entity 260
+{
+"origin" "-328.0 3512.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 261
+{
+"origin" "-328.0 3456.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 262
+{
+"origin" "-328.0 3400.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 263
+{
+"origin" "-208.0 3568.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 264
+{
+"origin" "-208.0 3512.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 265
+{
+"origin" "-152.0 3568.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 266
+{
+"origin" "-152.0 3512.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 267
+{
+"origin" "-96.0 3568.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 268
+{
+"origin" "-96.0 3512.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 269
+{
+"origin" "-96.0 3456.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 270
+{
+"origin" "-96.0 3400.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 271
+{
+"origin" "-96.0 3344.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 272
+{
+"origin" "-40.0 3568.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 273
+{
+"origin" "-40.0 3456.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 274
+{
+"origin" "-40.0 3400.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 275
+{
+"origin" "-40.0 3344.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 276
+{
+"origin" "-216.0 4088.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 277
+{
+"origin" "-216.0 4032.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 278
+{
+"origin" "-216.0 3976.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 279
+{
+"origin" "-216.0 3920.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 280
+{
+"origin" "-216.0 3864.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 281
+{
+"origin" "-216.0 3808.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 282
+{
+"origin" "-216.0 3752.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 283
+{
+"origin" "-128.0 3968.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 284
+{
+"origin" "-128.0 3912.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 285
+{
+"origin" "-128.0 3856.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 286
+{
+"origin" "-128.0 3800.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 287
+{
+"origin" "-128.0 3744.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 288
+{
+"origin" "-128.0 3688.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 289
+{
+"origin" "-128.0 3632.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 290
+{
+"origin" "-216.0 4264.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 291
+{
+"origin" "-216.0 4208.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 292
+{
+"origin" "-216.0 4152.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 293
+{
+"origin" "-152.0 4320.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 294
+{
+"origin" "-152.0 4264.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 295
+{
+"origin" "-152.0 4208.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 296
+{
+"origin" "-152.0 4152.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 297
+{
+"origin" "-88.0 4320.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 298
+{
+"origin" "-88.0 4264.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 299
+{
+"origin" "-88.0 4208.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 300
+{
+"origin" "-88.0 4152.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 301
+{
+"origin" "-24.0 4320.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 302
+{
+"origin" "-24.0 4264.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 303
+{
+"origin" "-24.0 4208.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 304
+{
+"origin" "-24.0 4152.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 305
+{
+"origin" "40.0 4288.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 306
+{
+"origin" "40.0 4232.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 307
+{
+"origin" "40.0 4144.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 308
+{
+"origin" "-112.0 4064.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 309
+{
+"origin" "-160.0 4064.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 310
+{
+"origin" "-264.0 3752.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 311
+{
+"origin" "-264.0 3920.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 312
+{
+"origin" "-264.0 3864.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 313
+{
+"origin" "-272.0 4056.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 314
+{
+"origin" "-272.0 4008.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 315
+{
+"origin" "-392.0 3496.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 316
+{
+"classname" "node_pathnode"
+"origin" "-96.0 3288.0 144.0"
+}
+// entity 317
+{
+"classname" "node_pathnode"
+"origin" "-40.0 3288.0 144.0"
+}
+// entity 318
+{
+"classname" "node_pathnode"
+"origin" "-96.0 3248.0 144.0"
+}
+// entity 319
+{
+"classname" "node_pathnode"
+"origin" "-40.0 3248.0 144.0"
+}
+// entity 320
+{
+"classname" "node_pathnode"
+"origin" "-504.0 3128.0 144.0"
+}
+// entity 321
+{
+"classname" "node_pathnode"
+"origin" "-568.0 3128.0 144.0"
+}
+// entity 322
+{
+"classname" "node_pathnode"
+"origin" "-104.0 3144.0 144.0"
+}
+// entity 323
+{
+"classname" "node_pathnode"
+"origin" "-632.0 3128.0 144.0"
+}
+// entity 324
+{
+"classname" "node_pathnode"
+"origin" "-672.0 3192.0 144.0"
+}
+// entity 325
+{
+"classname" "node_pathnode"
+"origin" "-680.0 3136.0 144.0"
+}
+// entity 326
+{
+"classname" "node_pathnode"
+"origin" "-616.0 3184.0 144.0"
+}
+// entity 327
+{
+"angles" "0 270 0"
+"script_forcespawn" "1"
+"script_noteworthy" "zombie_spawner"
+"count" "9999"
+"targetname" "test_zone_spawners"
+"spawnflags" "3"
+"export" "17"
+"origin" "-639.5 3247.0 143.5"
+"classname" "actor_zombie_ger_zombie"
+"model" "char_ger_honorgd_fullbody"
+}
+// entity 328
+{
+"angles" "0 270 0"
+"script_forcespawn" "1"
+"script_noteworthy" "zombie_spawner"
+"count" "9999"
+"targetname" "test_zone_spawners"
+"spawnflags" "3"
+"export" "19"
+"origin" "146.5 4580.0 128.5"
+"classname" "actor_zombie_ger_zombie"
+"model" "char_ger_honorgd_fullbody"
+}
+// entity 329
+{
+"angles" "0 180 0"
+"script_forcespawn" "1"
+"script_noteworthy" "zombie_spawner"
+"count" "9999"
+"targetname" "test_zone_spawners"
+"spawnflags" "3"
+"export" "21"
+"origin" "270.0 3782.5 128.5"
+"classname" "actor_zombie_ger_zombie"
+"model" "char_ger_honorgd_fullbody"
+}
+// entity 330
+{
+"angles" "0 270 0"
+"origin" "-79.5 4011.3 122.0"
+"model" "_prefabs/zombiemode/blocker_barricade.map"
+"classname" "misc_prefab"
+}
+// entity 331
+{
+"angles" "0 90 0"
+"origin" "-293.5 3792.3 122.0"
+"model" "_prefabs/zombiemode/blocker_barricade.map"
+"classname" "misc_prefab"
+}
+// entity 332
+{
+"angles" "0 270 0"
+"origin" "79.0 4184.0 122.0"
+"model" "_prefabs/zombiemode/blocker_barricade.map"
+"classname" "misc_prefab"
+}
+// entity 333
+{
+"angles" "0 180 0"
+"origin" "-179.9 3497.5 180.0"
+"model" "_prefabs/zombiemode/weapon/weapon_upgrade_m14.map"
+"classname" "misc_prefab"
+}
+// entity 334
+{
+"origin" "-200.0 3672.0 160.1"
+"angles" "1.12003e-006 270 -90.0001"
+"model" "_prefabs/zombiemode/weapon/weapon_upgrade_explosives.map"
+"classname" "misc_prefab"
+}
+// entity 335
+{
+"origin" "-384.0 3428.0 128.0"
+"model" "p_rus_table_pedestal"
+"classname" "misc_model"
+}
+// entity 336
+{
+"origin" "-40.9 3926.5 128.0"
+"angles" "0 300 0"
+"model" "p_rus_hotel_couch"
+"classname" "misc_model"
+}
+// entity 337
+{
+"origin" "-291.7 3254.3 128.0"
+"angles" "0 180 0"
+"model" "p_rus_table_wall"
+"classname" "misc_model"
+}
+// entity 338
+{
+"origin" "-190.0 4394.5 203.0"
+"model" "p_rus_duga_sign_outdoor_01"
+"classname" "misc_model"
+}
+// entity 339
+{
+"origin" "13.0 4121.0 128.0"
+"angles" "0 90 0"
+"model" "p_glo_bookshelf_wide_d"
+"classname" "misc_model"
+}
+// entity 340
+{
+"origin" "-111.0 4234.5 245.0"
+"model" "p_glo_industrial_lamp_red_head_on"
+"classname" "misc_model"
+}
+// entity 341
+{
+"origin" "-183.0 4034.5 245.0"
+"model" "p_glo_industrial_lamp_red_head_on"
+"classname" "misc_model"
+}
+// entity 342
+{
+"origin" "-167.0 3818.5 245.0"
+"model" "p_glo_industrial_lamp_red_head_on"
+"classname" "misc_model"
+}
+// entity 343
+{
+"origin" "-151.0 3546.5 245.0"
+"model" "p_glo_industrial_lamp_red_head_on"
+"classname" "misc_model"
+}
+// entity 344
+{
+"origin" "-103.0 3302.5 245.0"
+"model" "p_glo_industrial_lamp_red_head_on"
+"classname" "misc_model"
+}
+// entity 345
+{
+"origin" "-603.0 3818.5 242.0"
+"model" "p_glo_industrial_lamp_red_head_on"
+"classname" "misc_model"
+}
+// entity 346
+{
+"origin" "-443.0 3834.5 242.0"
+"model" "p_glo_industrial_lamp_red_head_on"
+"classname" "misc_model"
+}
+// entity 347
+{
+"origin" "-331.0 4002.5 242.0"
+"model" "p_glo_industrial_lamp_red_head_on"
+"classname" "misc_model"
+}
+// entity 348
+{
+"origin" "169.0 4202.5 242.0"
+"model" "p_glo_industrial_lamp_red_head_on"
+"classname" "misc_model"
+}
+// entity 349
+{
+"origin" "33.0 4010.5 245.0"
+"model" "p_glo_industrial_lamp_red_head_on"
+"classname" "misc_model"
+}
+// entity 350
+{
+"origin" "-163.0 3098.5 245.0"
+"model" "p_glo_industrial_lamp_red_head_on"
+"classname" "misc_model"
+}
+// entity 351
+{
+"angles" "0 180 0"
+"model" "_prefabs/zombiemode/weapon_upgrade_rottweil72.map"
+"origin" "-75.8 4110.3 176.0"
+"classname" "misc_prefab"
+}
+// entity 352
+{
+"origin" "-152.0 3552.0 232.0"
+"def" "light_point_linear"
+"radius" "200"
+"_color" "1 1 1"
+"intensity" "1"
+"classname" "light"
+}
+// entity 353
+{
+"origin" "-104.0 3312.0 232.0"
+"def" "light_point_linear"
+"radius" "200"
+"_color" "1 1 1"
+"intensity" "1"
+"classname" "light"
+}
+// entity 354
+{
+"origin" "-391.0 3452.0 232.0"
+"def" "light_point_linear"
+"radius" "280"
+"_color" "1 1 1"
+"intensity" "1"
+"classname" "light"
+}
+// entity 355
+{
+"origin" "-168.0 3824.0 232.0"
+"def" "light_point_linear"
+"radius" "200"
+"_color" "1 1 1"
+"intensity" "1"
+"classname" "light"
+}
+// entity 356
+{
+"origin" "-200.0 4040.0 228.0"
+"def" "light_point_linear"
+"radius" "200"
+"_color" "1 1 1"
+"intensity" "1"
+"classname" "light"
+}
+// entity 357
+{
+"origin" "-112.0 4240.0 231.0"
+"def" "light_point_linear"
+"radius" "250"
+"_color" "1 1 1"
+"intensity" "1"
+"classname" "light"
+}
+// entity 358
+{
+"origin" "-163.0 3787.0 214.0"
+"classname" "reflection_probe"
+}
+// entity 359
+{
+"origin" "-391.0 3446.5 245.0"
+"model" "p_glo_industrial_lamp_red_head_on"
+"classname" "misc_model"
+}
+// entity 360
+{
+"origin" "-160.0 3104.0 230.0"
+"def" "light_point_linear"
+"radius" "200"
+"_color" "1 1 1"
+"intensity" "1"
+"classname" "light"
+}
+// entity 361
+{
+"origin" "-448.0 3104.0 232.0"
+"def" "light_point_linear"
+"radius" "200"
+"_color" "1 1 1"
+"intensity" "1"
+"classname" "light"
+}
+// entity 362
+{
+"origin" "-600.0 3824.0 232.0"
+"def" "light_point_linear"
+"radius" "200"
+"_color" "1 1 1"
+"intensity" "1"
+"classname" "light"
+}
+// entity 363
+{
+"origin" "-440.0 3840.0 232.0"
+"def" "light_point_linear"
+"radius" "200"
+"_color" "1 1 1"
+"intensity" "1"
+"classname" "light"
+}
+// entity 364
+{
+"origin" "-328.0 4008.0 232.0"
+"def" "light_point_linear"
+"radius" "200"
+"_color" "1 1 1"
+"intensity" "1"
+"classname" "light"
+}
+// entity 365
+{
+"origin" "168.0 4208.0 232.0"
+"def" "light_point_linear"
+"radius" "200"
+"_color" "1 1 1"
+"intensity" "1"
+"classname" "light"
+}
+// entity 366
+{
+"superellipse" "0.75 1 0.75 1"
+"attenuation" "1 0 0"
+"roundness" "1"
+"fov_outer" "90"
+"fov_inner" "60"
+"exponent" "1"
+"target" "auto10"
+"origin" "40.0 3520.0 232.0"
+"def" "light_point_linear"
+"radius" "200"
+"_color" "1 1 1"
+"intensity" "2"
+"classname" "light"
+}
+// entity 367
+{
+"origin" "32.0 4016.0 232.0"
+"def" "light_point_linear"
+"radius" "200"
+"_color" "1 1 1"
+"intensity" "1"
+"classname" "light"
+}
+// entity 368
+{
+"origin" "41.0 3514.5 245.0"
+"model" "p_glo_industrial_lamp_red_head_on"
+"classname" "misc_model"
+}
+// entity 369
+{
+"classname" "node_pathnode"
+"origin" "-61.0 3839.0 144.0"
+}
+// entity 370
+{
+"classname" "node_pathnode"
+"origin" "-62.0 3778.0 144.0"
+}
+// entity 371
+{
+"origin" "-214.5 4353.5 144.0"
+"classname" "node_pathnode"
+}
+// entity 372
+{
+"classname" "script_struct"
+"origin" "-256.0 4104.0 192.0"
+"targetname" "auto2"
+"speed" "1"
+"angles" "0 330 0"
+}
+// entity 373
+{
+"classname" "node_pathnode"
+"origin" "-328.0 3344.0 144.0"
+}
+// entity 374
+{
+"angles" "0 270 0"
+"script_forcespawn" "1"
+"script_noteworthy" "zombie_spawner"
+"count" "9999"
+"targetname" "test_zone_spawners"
+"spawnflags" "3"
+"export" "22"
+"origin" "-609.5 4208.5 112.5"
+"classname" "actor_zombie_ger_zombie"
+"model" "char_ger_honorgd_fullbody"
+}
+// entity 375
+{
+"origin" "-343.8 3983.8 144.0"
+"classname" "node_pathnode"
+}
+// entity 376
+{
+"origin" "-420.0 4003.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 377
+{
+"origin" "-440.0 3919.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 378
+{
+"origin" "-408.0 3851.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 379
+{
+"origin" "-344.0 3843.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 380
+{
+"origin" "-604.0 3756.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 381
+{
+"origin" "-380.0 3788.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 382
+{
+"script_noteworthy" "player_volume"
+"target" "test_zone_spawners"
+"targetname" "test_zone"
+"classname" "info_volume"
+// brush 0
+{
+ ( -748 5753.5 120 ) ( -932 5753.5 120 ) ( -932 5561.5 120 ) volume 64 64 -1021 -5569.5 0 0 lightmap_gray 16384 16384.25 -1021 -5569.5 0 0
+ ( -1022 5561.5 435 ) ( -1022 5753.5 435 ) ( -838 5753.5 435 ) volume 64 64 -1021 -5569.1611 0 0 lightmap_gray 16384 16384 -1021 -5569.5 0 0
+ ( 622.5 3079 282 ) ( 806.5 3079 282 ) ( 806.5 3079 274 ) volume 64 64 -1021.0151 -785.99829 0 0 lightmap_gray 16384.131 16384.5 -1021.0305 -786.00983 0 0
+ ( 372.5 3741 282 ) ( 372.5 3933 282 ) ( 372.5 3933 274 ) volume 64 64 5569.4946 -786 0 0 lightmap_gray 16383.563 16384.375 5569.3945 -786.00751 0 0.00018310966
+ ( -409 4669.5 282 ) ( -593 4669.5 282 ) ( -593 4669.5 274 ) volume 64 64 -1021.0337 -785.9859 0 0 lightmap_gray 16384 16384.25 -1021.0067 -786.00409 0 0
+ ( -865 5369.5 346 ) ( -865 5177.5 346 ) ( -865 5177.5 338 ) volume 64 64 5569.4741 -786.01715 0 0 lightmap_gray 16384 16384.375 5569.522 -786.0105 0 0
+}
+}
+// entity 383
+{
+"targetname" "playable_area"
+"classname" "trigger_multiple"
+// brush 0
+{
+ ( -100 3868 120 ) ( -100 4636 120 ) ( -868 4636 120 ) trigger 64 64 -3748 988 -90 0 lightmap_gray 16384 16384 -3748 988 -90 0
+ ( -860 4636 280 ) ( -92 4636 280 ) ( -92 3868 280 ) trigger 64 64 -3748 988 -90 0 lightmap_gray 16384 16384 -3748 988 -90 0
+ ( -292 4406 304 ) ( -292 3638 304 ) ( -292 3638 240 ) trigger 64 -64 -3748 176 180 0 lightmap_gray 16384 -16384 -3748 176 180 0
+ ( -76 3852 304 ) ( -76 4620 304 ) ( -76 4620 240 ) trigger 64 -64 -3748 176 180 0 lightmap_gray 16384 -16384 -3748 176 180 0
+ ( -64 4402 304 ) ( -832 4402 304 ) ( -832 4402 240 ) trigger 64 64 -988 -176 0 0 lightmap_gray 16384 16384 -988 -176 0 0
+ ( -288 3730 121 ) ( -320 3730 259.5 ) ( -288 3730 153 ) trigger 64 64 -320 0 0 0 lightmap_gray 16384 16384 -320 0 0 0
+}
+}
+// entity 384
+{
+"targetname" "playable_area"
+"classname" "trigger_multiple"
+// brush 0
+{
+ ( -36 4172 116 ) ( -36 4940 116 ) ( -804 4940 116 ) trigger 64 64 -4052 924 -90 0 lightmap_gray 16384 16384 -4052 924 -90 0
+ ( -796 4940 256 ) ( -28 4940 256 ) ( -28 4172 256 ) trigger 64 64 -4052 924 -90 0 lightmap_gray 16384 16384 -4052 924 -90 0
+ ( -76 4632 300 ) ( -76 3864 300 ) ( -76 3864 236 ) trigger 64 -64 -4052 172 180 0 lightmap_gray 16384 -16384 -4052 172 180 0
+ ( -774 4110 300 ) ( -6 4110 300 ) ( -6 4110 236 ) trigger 64 64 -924 -172 0 0 lightmap_gray 16384 16384 -924 -172 0 0
+ ( 64 4312 256 ) ( 64 4312 112 ) ( 64 4080 112 ) trigger 64 -64 -4052 172 180 0 lightmap_gray 16384 -16384 -4052 172 180 0
+ ( 64 4312 112 ) ( 64 4312 256 ) ( -80 4384 256 ) trigger 64 64 -924 -172 0 0 lightmap_gray 16384 16384 -924 -172 0 0
+}
+}
+// entity 385
+{
+"origin" "-516.0 3068.0 128.0"
+"angles" "0 180 0"
+"model" "_prefabs/zombiemode/power_lever.map"
+"classname" "misc_prefab"
+}
+// entity 386
+{
+"targetname" "playable_area"
+"classname" "trigger_multiple"
+// brush 0
+{
+ ( -360 3360 120 ) ( -360 4128 120 ) ( -1128 4128 120 ) trigger 64 64 -3240 1248 -90 0 lightmap_gray 16384 16384 -3240 1248 -90 0
+ ( -1120 4128 280 ) ( -352 4128 280 ) ( -352 3360 280 ) trigger 64 64 -3240 1248 -90 0 lightmap_gray 16384 16384 -3240 1248 -90 0
+ ( -552 3898 304 ) ( -552 3130 304 ) ( -552 3130 240 ) trigger 64 -64 -3240 176 180 0 lightmap_gray 16384 -16384 -3240 176 180 0
+ ( -2 3334 304 ) ( -2 4102 304 ) ( -2 4102 240 ) trigger 64 -64 -3240 176 180 0 lightmap_gray 16384 -16384 -3240 176 180 0
+ ( -298 3612 304 ) ( -1066 3612 304 ) ( -1066 3612 240 ) trigger 64 64 -1248 -176 0 0 lightmap_gray 16384 16384 -1248 -176 0 0
+ ( -548 3222 121 ) ( -580 3222 259.5 ) ( -548 3222 153 ) trigger 64 64 -580 0 0 0 lightmap_gray 16384 16384 -580 0 0 0
+}
+}
+// entity 387
+{
+"targetname" "playable_area"
+"classname" "trigger_multiple"
+// brush 0
+{
+ ( -338 3660 120 ) ( -338 4428 120 ) ( -1106 4428 120 ) trigger 64 64 -3540 1226 -90 0 lightmap_gray 16384 16384 -3540 1226 -90 0
+ ( -1098 4428 280 ) ( -330 4428 280 ) ( -330 3660 280 ) trigger 64 64 -3540 1226 -90 0 lightmap_gray 16384 16384 -3540 1226 -90 0
+ ( -240 4166 304 ) ( -240 3398 304 ) ( -240 3398 240 ) trigger 64 -64 -3540 176 180 0 lightmap_gray 16384 -16384 -3540 176 180 0
+ ( -88 3654 304 ) ( -88 4422 304 ) ( -88 4422 240 ) trigger 64 -64 -3540 176 180 0 lightmap_gray 16384 -16384 -3540 176 180 0
+ ( -240 3730 304 ) ( -1008 3730 304 ) ( -1008 3730 240 ) trigger 64 64 -1226 -176 0 0 lightmap_gray 16384 16384 -1226 -176 0 0
+ ( -530 3612 121 ) ( -562 3612 259.5 ) ( -530 3612 153 ) trigger 64 64 -558 0 0 0 lightmap_gray 16384 16384 -558 0 0 0
+}
+}
+// entity 388
+{
+"targetname" "playable_area"
+"classname" "trigger_multiple"
+// brush 0
+{
+ ( -262 3892 120 ) ( -262 4660 120 ) ( -1030 4660 120 ) trigger 64 64 -3772 1150 -90 0 lightmap_gray 16384 16384 -3772 1150 -90 0
+ ( -1022 4660 280 ) ( -254 4660 280 ) ( -254 3892 280 ) trigger 64 64 -3772 1150 -90 0 lightmap_gray 16384 16384 -3772 1150 -90 0
+ ( -76 4398 304 ) ( -76 3630 304 ) ( -76 3630 240 ) trigger 64 -64 -3772 176 180 0 lightmap_gray 16384 -16384 -3772 176 180 0
+ ( -12 3886 304 ) ( -12 4654 304 ) ( -12 4654 240 ) trigger 64 -64 -3772 176 180 0 lightmap_gray 16384 -16384 -3772 176 180 0
+ ( -164 3962 304 ) ( -932 3962 304 ) ( -932 3962 240 ) trigger 64 64 -1150 -176 0 0 lightmap_gray 16384 16384 -1150 -176 0 0
+ ( -452 3730 121 ) ( -484 3730 259.5 ) ( -452 3730 153 ) trigger 64 64 -482 0 0 0 lightmap_gray 16384 16384 -482 0 0 0
+}
+}
+// entity 389
+{
+"origin" "-48.0 3768.0 136.0"
+"targetname" "revive_retreat_point"
+"classname" "script_origin"
+}
+// entity 390
+{
+"script_noteworthy" "test_zone"
+"classname" "script_struct"
+"origin" "-505.5 3273.0 152.0"
+"targetname" "player_respawn_point"
+"angles" "0 0 0"
+}
+// entity 391
+{
+"origin" "-480.0 3392.0 176.0"
+"classname" "info_player_respawn"
+}
+// entity 392
+{
+"script_noteworthy" "test_zone"
+"script_int" "2"
+"classname" "script_struct"
+"origin" "-70.5 3255.0 152.0"
+"targetname" "player_respawn_point"
+"angles" "0 180 0"
+}
+// entity 393
+{
+"origin" "5.0 3513.0 120.0"
+"angles" "0 270 0"
+"model" "_prefabs/traverse/wall_hop_zombie.map"
+"classname" "misc_prefab"
+}
+// entity 394
+{
+"origin" "52.3 3304.2 144.0"
+"classname" "node_pathnode"
+}
+// entity 395
+{
+"origin" "100.3 3272.2 144.0"
+"classname" "node_pathnode"
+}
+// entity 396
+{
+"origin" "140.3 3320.2 144.0"
+"classname" "node_pathnode"
+}
+// entity 397
+{
+"origin" "140.3 3384.2 144.0"
+"classname" "node_pathnode"
+}
+// entity 398
+{
+"origin" "140.3 3448.2 144.0"
+"classname" "node_pathnode"
+}
+// entity 399
+{
+"origin" "140.3 3512.2 144.0"
+"classname" "node_pathnode"
+}
+// entity 400
+{
+"origin" "140.3 3576.2 144.0"
+"classname" "node_pathnode"
+}
+// entity 401
+{
+"origin" "140.3 3624.2 144.0"
+"classname" "node_pathnode"
+}
+// entity 402
+{
+"origin" "-412.0 3732.0 144.0"
+"classname" "node_pathnode"
+}
+// entity 403
+{
+"script_string" "riser"
+"model" "char_ger_honorgd_fullbody"
+"classname" "actor_zombie_ger_zombie"
+"origin" "200.0 3696.0 308.0"
+"export" "4"
+"spawnflags" "3"
+"targetname" "test_zone_spawners"
+"count" "9999"
+"script_noteworthy" "zombie_spawner"
+"script_forcespawn" "1"
+"angles" "0 180 0"
+}
+// entity 404
+{
+"origin" "145.0 3680.0 128.0"
+"script_string" "riser"
+"script_noteworthy" "find_flesh"
+"targetname" "test_zone_spawners_rise"
+"classname" "script_struct"
+}
+// entity 405
+{
+"origin" "5.0 3513.0 127.0"
+"model" "p_glo_sandbags_lego_mdl"
+"classname" "misc_model"
+}
+// entity 406
+{
+"origin" "214.3 3679.8 129.0"
+"script_string" "riser"
+"script_noteworthy" "find_flesh"
+"targetname" "test_zone_spawners_rise"
+"classname" "script_struct"
+}
+// entity 407
+{
+"origin" "204.3 3628.2 148.0"
+"classname" "node_pathnode"
+}
+// entity 408
+{
+"origin" "212.3 3560.2 148.0"
+"classname" "node_pathnode"
+}
+// entity 409
+{
+"origin" "200.3 3480.2 148.0"
+"classname" "node_pathnode"
+}
+// entity 410
+{
+"origin" "204.3 3412.2 148.0"
+"classname" "node_pathnode"
+}
+// entity 411
+{
+"origin" "200.3 3340.2 148.0"
+"classname" "node_pathnode"
+}
+// entity 412
+{
+"origin" "176.3 3264.2 148.0"
+"classname" "node_pathnode"
+}
+// entity 413
+{
+"origin" "40.3 3232.2 148.0"
+"classname" "node_pathnode"
+}
+// entity 414
+{
+"origin" "100.3 3216.2 148.0"
+"classname" "node_pathnode"
+}
+// entity 415
+{
+"origin" "177.0 3592.0 128.0"
+"script_string" "riser"
+"script_noteworthy" "find_flesh"
+"targetname" "test_zone_spawners_rise"
+"classname" "script_struct"
+}
