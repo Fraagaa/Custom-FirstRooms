@@ -1,3 +1,7 @@
+xmodel,c_usa_dempsey_body
+xmodel,c_jap_takeo_body
+xmodel,c_rus_nikolai_body
+xmodel,c_ger_richtofen_body
 stringtable,maps\mapsTable.csv
 rawfile,mod.arena
 localize,mod
